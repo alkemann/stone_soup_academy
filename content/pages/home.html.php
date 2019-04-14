@@ -7,7 +7,7 @@
 <h3>Select your character:</h3>
 
 <ul class="charlist">
-    <li><a href="#">Snorg, the troll berzerker of Trog</a></li>
+    <li><img src="http://crawl.chaosforge.org/images/e/e8/Snorg.png"><a href="#">Snorg, the troll berzerker of Trog</a></li>
     <li><a href="#">Asterion, the minotaur fighter of Makhleb</a></li>
     <li><a href="#">Nessos, the Markscentaur    ...of god?</a></li>
     <li><a href="#">Saint Roka, the Hill Orc Monk of Beogh</a></li>
