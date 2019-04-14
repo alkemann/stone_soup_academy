@@ -1,8 +1,9 @@
 
 <h2>Welcome</h2>
-<p>Our goal: help you improve your crawler skills from beginner to intermediate with the objective of competing at a higher level in the CosPlay weekly challenge.</p>
+<p>Our goal: help you improve your crawler skills from beginner to intermediate with the objective of competing in the CosPlay weekly challenge.</p>
 
-<p>Our approach: play one of five beginner level combos, each based on a Crawl Unique. Earn points by following specific conducts that help you develop good habits.</p>
+<p>Our approach: play one of five beginner level combos, each based on a Crawl Unique.</p> 
+<p>              You'll be earning points by following specific conducts that help you develop good habits.</p>
 
 <h3>Select your character:</h3>
 
