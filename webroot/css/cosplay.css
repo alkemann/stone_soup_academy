@@ -80,6 +80,11 @@ div#right-wall {
 
 h1, h2, h3, h4, h5 {
   font-family: "Lucida Grande", "Trebuchet MS", "Sans-Serif";
+  color: #fce94f; 
+}
+
+h1 a, h1 a:visited {
+  color: #fce94f; 
 }
 
 img { border: 0; }
@@ -94,6 +99,22 @@ h3 {
 }
 h4 {
   margin-bottom: 2px;
+}
+
+.brown {
+  color: #8f5902;
+}
+
+.yellow {
+  color: #fce94f;
+}
+
+.blue {
+  color: #729fcf;
+}
+
+.border-brown {
+  color: #7d623c;
 }
 
 hr {
@@ -119,15 +140,34 @@ th {
 }
 
 body {
-  color: #EEE;
+  color: #babdb6;
 }
 
-a {
-  color: #66f;
+a, a:visited  {
+  color: white;
+  font-weight: bold;
 }
 
-a:visited {
-  color: #66f;
+.heading a, .heading a:visited  {
+  color: #729fcf;
+}
+
+.heading h1 a, .heading h1 a:visited {
+  color: #fce94f;
+  text-decoration: none;
+}
+
+ul.charlist {
+  list-style: none;
+}
+.charlist li {
+  font-size: 1.5em;
+  vertical-align: middle;
+  padding-bottom: 0.5em;
+}
+
+.charlist img {
+  vertical-align: middle;
 }
 
 .numeric {
@@ -187,47 +227,11 @@ div.player_status {
     border-left: 1px solid #000;
 }
 
-div.sidebar {
-    position: absolute;
-    top: 0px;
-    right: 10px;
-    padding-left: 15px;
-    border-left: 1px solid #000;
-}
-
-div.sidebar_title {
-    padding: 0px 20px 0px 20px;
-    background: #fffae0;
-    border: 1px solid #000;
-}
-
-div.sidebar_content {
-    padding: 0px 20px 0px 20px;
-    background: white;
-    border: 1px solid #000;
-}
-
-div.inset {
-    background: #fffae0;
-    padding: 10px;
-    border: 1px solid #f3dcdc;
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
-div.inset p {
-  padding: 2px 0;
-  margin: 0;
-}
-
-div.fineprint p {
-  padding: 2px 0;
-  margin: 0;
-}
-
 .page {
-    border: 2px solid #AAA;
-    background: #333;
+ 
+    border: 1px solid black;
+    outline: 2px solid #7d623c;
+    background: black;
     margin: 32px auto;
     position: relative;
 }
@@ -254,7 +258,7 @@ div.fineprint p {
 */
 
 div.toplinks {
-    margin-top: 0px;
+    margin: 0px 5em;
     color: #eee;
     text-align: right;
     padding-top: 10px;
@@ -303,7 +307,8 @@ table.bordered td {
 table.bordered_centered td {
     margin: 6px;
     padding: 6px;
-    border: 1px solid #ddd;
+    border: 1px solid black;
+    outline: 2px solid #7d623c;
     vertical-align: top;
 }
 
