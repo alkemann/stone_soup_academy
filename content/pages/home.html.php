@@ -8,7 +8,7 @@
 <h3>Select your character:</h3>
 
 <ul class="charlist">
-    <li><img src="./webroot/img/Snorg.png"> <a href="#">Snorg, the troll berzerker of Trog</a></li>
+    <li><img src="./img/Snorg.png"> <a href="#">Snorg, the troll berzerker of Trog</a></li>
     <li><img src="http://crawl.chaosforge.org/images/7/71/Asterion.png"> <a href="#">Asterion, the minotaur fighter of Makhleb</a></li>
     <li><img src="http://crawl.chaosforge.org/images/5/52/Nessos.png"> <a href="#">Nessos, the hunter centaur of Okawaru</a></li>
     <li><img src="http://crawl.chaosforge.org/images/8/87/Saint_Roka.png"> <a href="#">Saint Roka, the Hill Orc Monk of Beogh</a></li>
