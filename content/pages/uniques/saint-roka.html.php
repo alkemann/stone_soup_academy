@@ -6,5 +6,11 @@
 <img src="/img/HR-right.png"><br />
 
 <h2>Character Guide</h2>
-As a Hill Orc Monk (HOMo) of Beogh
-<p />
+by <a href="http://www.ultraviolent4.com/authors/ultraviolent4.html">Ultraviolent4</a>
+
+Difficulty: Simple
+<a href="https://www.youtube.com/playlist?list=PLaA1ahtMIRbMfV4qyLj8h2f1ZIuOYNg8_">Full HOMo of Beogh Playlist</a>
+<a href="https://www.youtube.com/playlist?list=PLaA1ahtMIRbO80iXtoiGFiyupMqmAFPWD">Full 15 Rune HOFi of Beogh Playlist</a>
+
+Posted: March 2, 2018
+Crawl Version: 0.21 + Trunk(v0.22)<p />
