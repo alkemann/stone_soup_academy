@@ -9,6 +9,6 @@
                         <div class="fineprint">Come chat with us on our <a href="https://discord.gg/ZQ4kk6n" target="_blank">Discord server</a></div>
         </div>
         <br />
-        <img src="./img/HR-right.png"><br />
+        <img src="/img/HR-right.png"><br />
         <div class="content">
 
