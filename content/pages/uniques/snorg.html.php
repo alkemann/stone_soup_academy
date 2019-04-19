@@ -1,6 +1,6 @@
 <h3>Snorg's Character Guide</h3>
 <table>
-	<tr><th>Snorg,</th><th></th><th><img src="/img/Snorg.png"></th></tr>
+	<tr><td>Snorg,</td><td></td><td><img src="/img/Snorg.png"></td></tr>
 	<tr><td></td><td>a particularly corpulent troll with a short temper and a sizable gut. Uninterested in the Orb, 
                  Snorg delights in the endless parade of adventurers – that is, easy meals — it attracts.</td><td></td></tr>
 </table>
