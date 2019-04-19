@@ -9,8 +9,8 @@
 by <a href="http://www.ultraviolent4.com/authors/ultraviolent4.html">Ultraviolent4</a><br>
 <br>
 Difficulty: Simple<br>
-<a href="https://www.youtube.com/playlist?list=PLaA1ahtMIRbMfV4qyLj8h2f1ZIuOYNg8_">Full HOMo of Beogh Playlist</a><br>
-<a href="https://www.youtube.com/playlist?list=PLaA1ahtMIRbO80iXtoiGFiyupMqmAFPWD">Full 15 Rune HOFi of Beogh Playlist</a><br>
+<a href="https://www.youtube.com/playlist?list=PLaA1ahtMIRbMfV4qyLj8h2f1ZIuOYNg8_">Full HOMo of Beogh YouTube video Playlist</a><br>
+<a href="https://www.youtube.com/playlist?list=PLaA1ahtMIRbO80iXtoiGFiyupMqmAFPWD">Full 15 Rune HOFi of Beogh YouTube video Playlist</a><br>
 <br>
 Posted: March 2, 2018<br>
 Crawl Version: 0.21 + Trunk(v0.22)<p />
@@ -24,7 +24,6 @@ Beogh is the (so-called) "evil" god of the Hill Orcs who enjoys it when you kill
 While preaching the word of Beogh, you can build fearsome armies of orcs by converting them to your side. 
 As your piety level and experience level (XL) rises, you're more likely to convince any orc you meet or bring close to death that you're the messiah. 
 If that happens, the orc will become a permanent follower and, as it gains experience fighting by your side, will level up.<br>
-<br>
 <br>
 As Hill Orc is the only species that can worship Beogh, this part of the combination is mandatory.
 Monk starts with a weapon of your choice which is nice for a Hill Orc who has a +3 aptitude in Axes. 
@@ -59,8 +58,6 @@ at the front and tank for the group.
 I highly recommend the largest shield you can find on a Beogh character because that will make you much more effective at tanking. 
 And since your followers will always add additional damage output, you don't need to worry about the lower base damage of 
 a one-handed weapon.
-<br><br>
-If in doubt, remember that the messiah gig requires you to die for the sins of your followers.
 <br>
 <h4>Micromanagement</h4>
 <br>
@@ -75,37 +72,50 @@ a different character.
 Your early-game skilling for a Hill Orc Monk should look similar to any melee brute character. 
 Focus your weapon (which is usually an axe due to Hill Orc's +3 Axes aptitude) as it's the most important skill initially. 
 I also like to train Fighting and Armour for the entire game.
-
+<br><br>
 If you ever find a shield (and you haven't already acquired an amazing two-handed weapon), train Shields.
-
-As soon as you start worshiping Beogh, turn on Invocations and train that until the end. My personal preference isn't to train Evocations but that's always an option if you find a strong early wand such as a wand of paralysis.
-
-Once my weapon reaches the skill required for mindelay (e.g. 18 for a broad axe) I like to focus Fighting for more HP and start training Dodging.
-
-Appropriate Gods
-People sometimes ask me for advice on a Hill Orc character that isn't worshiping Beogh. Whenever that happens I feel physically ill. You wouldn't want me to suffer, would you?
-
-All joking aside, if you don't follow Beogh on your Hill Orc then you're a heretic who should be ready to drown in a sea of blood.
-
-General Approach to the Run
-Your first mission is to survive the early Dungeon and find an orc priest so you can convert. If you're lucky that can be as early as D3.
-
-A Monk starts in robes so you want to upgrade to a heavier armour as soon as possible. Generally speaking, this character wants to wear the heaviest armour it can find and, to that end, wants to choose Strength as its stat on level-ups.
-
-Once you have Beogh, try not to use Smiting too much until you get to *** of piety which is when you can start converting (feel free to go nuts once you do have some orcs). I don't usually head into Lair until I have at least 2 regular orc followers because they will gain experience there and become orc knights. Orc knights can might each other (150% damage for monsters) so a pair of them is extremely powerful during the midgame.
-
-Orcs will eventually become named as they gain experience and level up. From ***** you get the ability to gift items to named followers. By far, the best thing to give them is a polearm. This is because the reaching property allows an orc to attack even when it's standing behind you or another orc. If a follower already has a one-handed polearm, give them a shield. And if they already have a two-handed polearm, you can go with a ranged weapon or magical armour.
-
-You can run around with all of your army at once or train up smaller groups until they reach orc warlord/sorcerer/high priest. The latter requires a bit more care but you'll ultimately end up with a larger and stronger force. Don't worry too much about trying to keep orc priests and wizards alive because it's very difficult to do (and impossible if a wizard has Blink). If one of your important orcs dies and leaves a corpse, you can resurrect it at ****** (full piety).
-
-I like to hold off on doing the Orcish Mines until I have max piety. Not only does that give you the highest chance to convert followers, it also allows you to resurrect any dead warlords you find.
-
-As far as S branches go, there isn't a huge difference between Snake and Spider. Shoals is much more desirable to Swamp, however. From ***** of piety, Beogh allows you to walk on water which removes one major Shoals difficulty. You're also going to confiscate many branded polearms from Merfolk which can then go into your arms chest. Swamp is extremely dangerous for your followers because they can be drowned by the noxious gas from swamp drakes. You shouldn't bring an orc in with you unless they have rPois. I repeat: DO NOT BRING FOLLOWERS INTO SWAMP.
-
-For a 3rd rune, you almost always want to do Vaults 5. By parking your followers at top of the stairs on V4 you can stair dance while smiting any vault wardens that lock you in. See how it's done here.
-
+<br><br>
+As soon as you start worshiping Beogh, turn on Invocations and train that until the end. 
+My personal preference isn't to train Evocations but that's always an option if you find a strong early wand such as a wand of paralysis.
+<br><br>
+Once my weapon reaches the skill required for mindelay (e.g. 18 for a broad axe), I like to focus Fighting for more HP 
+and start training Dodging.
+<br><br>
+<h3>General Approach to the Run</h3>
+Your first mission is to survive the early Dungeon and find an orc priest so you can convert. 
+If you're lucky that can be as early as D3.
+<br><br>
+A Monk starts in robes so you want to upgrade to a heavier armour as soon as possible. 
+Generally speaking, this character wants to wear the heaviest armour it can find and, to that end, 
+wants to choose Strength as its stat on level-ups.
+<br><br>
+Once you have Beogh, try not to use Smiting too much until you get to *** of piety which is when you can start converting 
+(feel free to go nuts once you do have some orcs). I don't usually head into Lair until I have at least 2 regular orc followers 
+because they will gain experience there and become orc knights. Orc knights can might each other (150% damage for monsters) so 
+a pair of them is extremely powerful during the midgame.
+<br><br>
+Orcs will eventually become named as they gain experience and level up. From ***** you get the ability to gift items to named followers.
+By far, the best thing to give them is a polearm. This is because the reaching property allows an orc to attack even when it's standing behind you or another orc. If a follower already has a one-handed polearm, give them a shield. And if they already have a two-handed polearm, you can go with a ranged weapon or magical armour.
+<br><br>
+You can run around with all of your army at once or train up smaller groups until they reach orc warlord/sorcerer/high priest. 
+The latter requires a bit more care but you'll ultimately end up with a larger and stronger force. Don't worry too much about 
+trying to keep orc priests and wizards alive because it's very difficult to do (and impossible if a wizard has Blink). 
+If one of your important orcs dies and leaves a corpse, you can resurrect it at ****** (full piety).
+<br><br>
+I like to hold off on doing the Orcish Mines until I have max piety. Not only does that give you the highest chance to convert followers,
+it also allows you to resurrect any dead warlords you find.
+<br><br>
+As far as S branches go, there isn't a huge difference between Snake and Spider. Shoals is much more desirable to Swamp, however. 
+From ***** of piety, Beogh allows you to walk on water which removes one major Shoals difficulty. 
+You're also going to confiscate many branded polearms from Merfolk which can then go into your arms chest. 
+Swamp is extremely dangerous for your followers because they can be drowned by the noxious gas from swamp drakes. 
+You shouldn't bring an orc in with you unless they have rPois. I repeat: DO NOT BRING FOLLOWERS INTO SWAMP.
+<br><br>
+For a 3rd rune, you almost always want to do Vaults 5. By parking your followers at top of the stairs on V4 you can stair dance 
+while smiting any vault wardens that lock you in. See how it's done here.
+<br><br>
 Bring your whole army with you into Zot and smite any orbs of fire, curse toes and ancient liches on sight.
-
+<br><br>
 Other Notes, Tips and Tricks
 Managing your followers
 
