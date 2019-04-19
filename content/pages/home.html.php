@@ -1,7 +1,7 @@
 
 <h2>Welcome</h2>
-<p>Simply put, the goal is to provide you with a structured approach to ease the learning curve while playing characters based on Uniques.</p>
-<p>The 5 characters below are considered to be "easier" as they do not rely on the use of magic.</p>
+<p>The goal of Cosplay Academy is to provide you with a structured approach to ease the learning curve while playing characters based on Uniques.
+The 5 characters below are considered to be "easier" as they do not rely on the use of magic.</p>
 <p>Once you have finished a game, submit your morque for scoring. This will allow you to be added to the scoreboard so that you can track 
     your progress and also compare yourself to others.</p>
 <p>If you are fairly new to DCSS, the following character guides should be very helpful.</p>
