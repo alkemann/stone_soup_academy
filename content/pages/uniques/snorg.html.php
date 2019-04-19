@@ -1,4 +1,3 @@
-<p />
 <table>
 	<tr><td><h3>Snorg,</h3></td><td></td><td><img src="/img/Snorg.png"></td></tr>
 	<tr><td></td><td><i>a particularly corpulent troll with a short temper and a sizable gut. Uninterested in the Orb, 
