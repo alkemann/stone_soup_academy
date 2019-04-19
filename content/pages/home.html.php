@@ -7,11 +7,11 @@ The 5 characters below are considered to be "easier" as they do not rely on the 
 <p>If you are fairly new to DCSS, the following character guides should be very helpful.</p>
 <h3>Guides for "Simple" Characters:</h3>
 <ul class="charlist">
-    <li><img src="./img/Snorg.png"> <a href="#">Snorg</a>, the <b>Tr</b>oll <b>Be</b>rzerker (TrBe) of Trog</li>
-    <li><img src="./img/Asterion.png"> <a href="#">Asterion</a>, the <b>Mi</b>notaur <b>Fi</b>ghter (MiFi) of Makhleb</li>
-    <li><img src="./img/Nessos.png"> <a href="#">Nessos</a>, the <b>Ce</b>ntaur <b>Hu</b>nter of (CeHu) Okawaru</li>
-    <li><img src="./img/Saint_Roka.png"> <a href="#">Saint Roka</a>, the <b>H</b>ill <b>O</b>rc <b>Mo<b>nk (HOMo) of Beogh</li>
-    <li><img src="./img/Grum.png"> <a href="#">Grum</a>, the <b>Gn</b>oll <b>Gl</b>adiator (GnGl) of Yredelemnul</li>
+    <li><img src="./img/Snorg.png"> <a href="/uniques/snorg">Snorg</a>, the <b>Tr</b>oll <b>Be</b>rzerker (TrBe) of Trog</li>
+    <li><img src="./img/Asterion.png"> <a href="/uniques/asterion">Asterion</a>, the <b>Mi</b>notaur <b>Fi</b>ghter (MiFi) of Makhleb</li>
+    <li><img src="./img/Nessos.png"> <a href="/uniques/nessos">Nessos</a>, the <b>Ce</b>ntaur <b>Hu</b>nter of (CeHu) Okawaru</li>
+    <li><img src="./img/Saint_Roka.png"> <a href="/uniques/saint-roka">Saint Roka</a>, the <b>H</b>ill <b>O</b>rc <b>Mo<b>nk (HOMo) of Beogh</li>
+    <li><img src="./img/Grum.png"> <a href="/uniques/grum">Grum</a>, the <b>Gn</b>oll <b>Gl</b>adiator (GnGl) of Yredelemnul</li>
 </ul>
 
 For tactical guides, see:
