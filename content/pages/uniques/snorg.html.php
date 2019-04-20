@@ -1,7 +1,6 @@
 <table>
 	<tr><td><img src="/img/Snorg.png"></td><td><h2><a href="http://crawl.chaosforge.org/Snorg">Snorg</a> the Insatiable</h2></td><td></td></tr>
-	<tr><td></td><td><i>a particularly corpulent troll with a short temper and a sizable gut. Uninterested in the Orb, 
-                 Snorg delights in the endless parade of adventurers – that is, easy meals — it attracts.</i></td><td></td></tr>
+	<tr><td></td><td><i>An exceptionally fat troll who will go berserk at the slightest provocation.</i></td><td></td></tr>
 </table>
 <br />
 <img src="/img/HR-right.png"><br />
