@@ -3,10 +3,11 @@
     <div class="toplinks">
         <a href="/">Home</a> | 
         <a href="/about">About</a> |
-        <a href="/scoring.html">Scoring Grid</a>
+        <a href="/scoring.html">Scoring Grid</a> |
         <a href="/submit">Submit a Morgue</a> | 
         <a href="/scoreboard">Scoreboard</a> 
-        (<i>as an <a href="https://crawl.kelbi.org/morgue-test/best-players-total-score.html">example</a></i>)
+        (<i>as an <a href="https://crawl.kelbi.org/morgue-test/best-players-total-score.html">example</a></i>) |
+        <a href="/admin">Admin</a>
     </div>
     <div class="page_content">
         <div class="heading">
