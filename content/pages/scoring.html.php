@@ -10,8 +10,7 @@ After their first melee style win, they get the level "amateur"<p />
 "Journeyman" is for a win with a hybrid-style unique<p />
 "Adept" is for a win with a mage-style unique<p />
 <p />
-(as for the titles    "veteran",    "master",    "legendary", they can be of later use._<p />
-
+( as for the titles    "veteran",    "master",    "legendary", they can be of later use. )<p />
 <p />
 <b>Qs</b><p />
 <li>is it possible to just win a mage-style unique to get the "Adept" rank?</li>
