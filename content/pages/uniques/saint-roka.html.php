@@ -33,15 +33,14 @@ army-building ambitions.<br>
 <br>
 <h3>Challenges to Consider</h3>
 <h4>Worshiping Beogh in the first place</h4>
-<br>
 Worshiping Beogh usually works differently than any other god. While there are shrines you can kneel at, 
 you usually won't find them outside of the Orcish Mines (and certainly not in the Temple).
 <br><br>
 The standard way to worship is to find an orc priest. When it notices you, you'll be given a new ability which you can access 
 from the ability menu with a then Y (Shift + y). Any orcs who see you convert will turn from hostile to neutral.
-<br><br>
+<br>
 <h4>Getting to ** and *** of piety</h4>
-<br>While Beogh ultimately becomes an extremely powerful god, the start is a little slow. Indeed, at * of piety you get 
+While Beogh ultimately becomes an extremely powerful god, the start is a little slow. Indeed, at * of piety you get 
 no benefits at all. From ** you have access to Smiting and *** allows you to start converting followers and building an army.
 <br><br>
 Fortunately, the Monk background helps by catapulting you straight to **. 
@@ -50,7 +49,6 @@ Still, don't be afraid to use wand charges, potions and other consumables to get
 it will be the most challenging time.
 <br>
 <h4>Keeping your followers alive</h4>
-<br>
 Unless you're some sort of maniac, you don't want the orcs in your charge to die. When given the choice between attacking 
 your character or a follower, monsters will typically choose you. As such, the best way to keep your orcs alive is to stand
 at the front and tank for the group.
@@ -60,7 +58,6 @@ And since your followers will always add additional damage output, you don't nee
 a one-handed weapon.
 <br>
 <h4>Micromanagement</h4>
-<br>
 It's not uncommon to hear people say Beogh is tedious to play due to the follower micromanagement required.
 <br><br>
 While it's true that some management is ideal, it's not really too much and a bit of practice makes it straightforward. 
@@ -68,7 +65,6 @@ Some tips follow later. Still, if the idea of any micromanagement at all freaks 
 a different character.
 <br><br>
 <h3>Early Skilling</h3>
-<br>
 Your early-game skilling for a Hill Orc Monk should look similar to any melee brute character. 
 Focus your weapon (which is usually an axe due to Hill Orc's +3 Axes aptitude) as it's the most important skill initially. 
 I also like to train Fighting and Armour for the entire game.
