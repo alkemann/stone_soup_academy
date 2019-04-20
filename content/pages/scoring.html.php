@@ -14,7 +14,7 @@ as for the titles    "veteran",    "master",    "legendary", they can be of late
 <p />
 <b>Qs</b><p />
 <li>is it possible to just win a mage-style unique to get the "Adept" rank?</li>
-<p />
+<p /><p />
 <u>Possible scoring grid for scoring individual games (without a cumulative scoreboard)</u><p />
 <p />
 <table>
