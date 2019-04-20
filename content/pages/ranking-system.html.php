@@ -13,7 +13,7 @@ After their first melee style win, they get the level "amateur"<p />
 <b>Qs</b><p />
 <li>is it possible to just win a mage-style unique to get the "Adept" rank?</li>
 <p /><p />
-<u>Currently being brainstormed>/u>:<p />
+<u>Currently being brainstormed</u>:<p />
 <p />
 <h4>Possible scoring grid for scoring individual games (without a cumulative scoreboard)</h4>
 <p />
