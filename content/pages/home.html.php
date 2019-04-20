@@ -8,7 +8,7 @@
 <p />
 <h4>Your first Academy goal</h4>
 ...is to play one of the "melee brutes" below since they are considered to be "easier".</p>
-<p>Once you have won a game, <a href="/submit">Submit your Morque</a> to get access to your next mission</a>. 
+<p>Once you have won a game, <a href="/submit">Submit your Morque</a> to gain access to your next Unique's mission</a>. 
     You'll also be added to the <a href="/scoreboard">Honour Roll</a> allowing you to see also the accomplishment of other crawlers.</p>
 <p>If you are fairly new to DCSS, the following character guides should be very helpful.</p>
 <h3>Guides for "Simple" melee characters:</h3>
