@@ -1,6 +1,11 @@
-<h2>Welcome</h2>
-<p>The goal of Cosplay Academy is to provide you with a structured approach to ease the learning curve while playing characters based on 
-    Uniques. Those listed below are considered to be "easier" as they do not rely on the use of magic during the early game. 
+<h2>Welcome "Weakling"</h2>
+<p>Do you have dreams of becoming a "Journeyman" or even an "Adept" crawler? You'll first need to win a game to get the title of "Amateur"
+and then a 2nd win to join the ranks of "Novice". But fear not, your dream is the goal of the Cosplay Academy to:
+<li>provide you with a structured approach to ease the learning curve while playing characters based on Uniques;</li> 
+in order to
+    <li>better compete in the <a href="http://www.crawlcosplay.com/">weekly Crawl Cosplay Challenge.</li>
+
+<p>Your first Academy goal is to play a melee brute since they are considered to be "easier". 
     (Other character sets will be developed at a later date.) Also, the assigned Gods are considered part of the better ones.</p>
 <p>Once you have finished a game, <a href="/submit">Submit your Morque</a> for <a href="/scoring">Scoring</a>. 
     This will allow you to be added to the <a href="/scoreboard">Scoreboard</a>(as an 
