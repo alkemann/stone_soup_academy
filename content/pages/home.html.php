@@ -1,11 +1,11 @@
-
 <h2>Welcome</h2>
 <p>The goal of Cosplay Academy is to provide you with a structured approach to ease the learning curve while playing characters based on 
-    Uniques. The characters listed below are considered to be "easier" as they do not rely on the use of magic during the early game. 
+    Uniques. Those listed below are considered to be "easier" as they do not rely on the use of magic during the early game. 
     (Other character sets will be developed at a later date.) Also, the assigned Gods are considered part of the better ones.</p>
 <p>Once you have finished a game, <a href="/submit">Submit your Morque</a> for <a href="/scoring">Scoring</a>. 
-    This will allow you to be added to the <a href="/scoreboard">Scoreboard</a> so that you can track your progress and also compare 
-    yourself to others.</p>
+    This will allow you to be added to the <a href="/scoreboard">Scoreboard</a>(as an 
+    <i><a href="https://crawl.kelbi.org/morgue-test/best-players-total-score.html">example</a></i>) so that you can track your progress 
+    and also compare yours to others'.</p>
 <p>If you are fairly new to DCSS, the following character guides should be very helpful.</p>
 <h3>Guides for "Simple" Characters:</h3>
 <ul class="charlist">
@@ -15,7 +15,6 @@
     <li><img src="/img/Nessos.png"> <a href="/uniques/nessos">Nessos</a>, the <b>Ce</b>ntaur <b>Hu</b>nter (CeHu) of Okawaru</li>
     <li><img src="/img/Grum.png"> <a href="/uniques/grum">Grum</a>, the <b>Gn</b>oll <b>Gl</b>adiator (GnGl) of Yredelemnul</li>
 </ul>
-
 <h4>For tactical guides:</h4>
     <li><a href="http://www.ultraviolent4.com/guide.html#General_Tactics">UV4's General Tactics</a></li>
     <li><a href="http://www.ultraviolent4.com/patashutactics.html">Patashu's Crawl Tactics Guide</a></li>
