@@ -4,7 +4,7 @@ Currently being brainstormed<p />
 <p />
 ( taken from:  <a href="https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661">https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661</a> )<p />
 
-The player starts as a "weakling".<p />
+The player starts with the title "weakling".<p />
 After their first melee style win, they get the level "amateur"<p />
 "Novice" is for a win with a Ranged-style unique<p />
 "Journeyman" is for a win with a hybrid-style unique<p />
