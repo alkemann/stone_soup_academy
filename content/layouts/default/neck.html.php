@@ -1,7 +1,12 @@
 <div id="top-wall">&nbsp;</div>
 <div class="page information">
     <div class="toplinks">
-        <a href="/">Home</a> | Submit a morgue | Scoreboard | <a href="/scoring.html">Scoring</a>
+        <a href="/">Home</a> | 
+        <a href="/about">About</a> | 
+        <a href="/submit">Submit a morgue</a> | 
+        <a href="/scoreboard">Scoreboard</a> 
+        (<i>as an <a href="https://crawl.kelbi.org/morgue-test/best-players-total-score.html">example</a></i>) |
+        <a href="/scoring.html">Scoring</a>
     </div>
     <div class="page_content">
         <div class="heading">
@@ -12,4 +17,3 @@
         <img src="/img/HR-right.png"><br />
         <br />
         <div class="content">
-
