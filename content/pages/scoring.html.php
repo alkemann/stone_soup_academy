@@ -1,7 +1,7 @@
 Currently being brainstormed<p />
 <p />
 <u>Ranking System based on Ghost Player ranks</u>:<p />
-from:  <a href="https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661"><p />
+from:  <a href="https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661"></a><p />
 
 The player starts as a "weakling".<p />
 After their first melee style win, they get the level "amateur"<p />
