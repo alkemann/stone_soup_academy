@@ -1,7 +1,8 @@
 Currently being brainstormed<p />
 <p />
 <u>Ranking System based on Ghost Player ranks</u>:<p />
-   "weakling",<p />
+from:  <a href="https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661"><p />
+"weakling",<p />
     "amateur",    "novice",    "journeyman",    "adept",<p />
     "veteran",    "master",    "legendary"<p />
 
