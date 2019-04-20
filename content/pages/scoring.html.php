@@ -2,9 +2,6 @@ Currently being brainstormed<p />
 <p />
 <u>Ranking System based on Ghost Player ranks</u>:<p />
 from:  <a href="https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661"><p />
-"weakling",<p />
-    "amateur",    "novice",    "journeyman",    "adept",<p />
-    "veteran",    "master",    "legendary"<p />
 
 The player starts as a "weakling".<p />
 After their first melee style win, they get the level "amateur"<p />
@@ -12,7 +9,10 @@ Novice is for a win with a Ranged-style unique<p />
 Journeyman is for a win with a hybrid-style unique<p />
 Adept is for a win with a mage-style unique<p />
 <p />
-Qs<p />
+as for the titles    "veteran",    "master",    "legendary", they can be of later use.<p />
+
+<p />
+<b>Qs</b><p />
 <li>is it possible to just win a mage-style unique to get the "Adept" rank?</li>
 <p />
 <u>Possible scoring grid for scoring individual games (without a cumulative scoreboard)</u><p />
