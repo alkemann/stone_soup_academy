@@ -9,11 +9,11 @@
 <p>If you are fairly new to DCSS, the following character guides should be very helpful.</p>
 <h3>Guides for "Simple" Characters:</h3>
 <ul class="charlist">
-    <li><img src="/img/Snorg.png"> <a href="/uniques/snorg">Snorg</a>, the <b>Tr</b>oll <b>Be</b>rzerker (TrBe) of Trog</li>
-    <li><img src="/img/Asterion.png"> <a href="/uniques/asterion">Asterion</a>, the <b>Mi</b>notaur <b>Fi</b>ghter (MiFi) of Makhleb</li>
-    <li><img src="/img/Saint_Roka.png"> <a href="/uniques/saint-roka">Saint Roka</a>, the <b>H</b>ill <b>O</b>rc <b>Mo</b>nk (HOMo) of Beogh</li>
-    <li><img src="/img/Nessos.png"> <a href="/uniques/nessos">Nessos</a>, the <b>Ce</b>ntaur <b>Hu</b>nter (CeHu) of Okawaru</li>
-    <li><img src="/img/Grum.png"> <a href="/uniques/grum">Grum</a>, the <b>Gn</b>oll <b>Gl</b>adiator (GnGl) of Yredelemnul</li>
+    <li><img src="/img/Snorg.png"> <a href="/uniques/snorg">Snorg</a>, the <u><b>Tr</b></u>oll <u><b>Be</b></u>rzerker (TrBe) of Trog</li>
+    <li><img src="/img/Asterion.png"> <a href="/uniques/asterion">Asterion</a>, the <u><b>Mi</b></u>notaur <u><b>Fi</b></u>ghter (MiFi) of Makhleb</li>
+    <li><img src="/img/Saint_Roka.png"> <a href="/uniques/saint-roka">Saint Roka</a>, the <u><b>H</b></u>ill <u><b>O</b></u>rc <u><b>Mo</b></u>nk (HOMo) of Beogh</li>
+    <li><img src="/img/Nessos.png"> <a href="/uniques/nessos">Nessos</a>, the <u><b>Ce</b></u>ntaur <u><b>Hu</b></u>nter (CeHu) of Okawaru</li>
+    <li><img src="/img/Grum.png"> <a href="/uniques/grum">Grum</a>, the <u><b>Gn</b></u>oll <u><b>Gl</b></u>adiator (GnGl) of Yredelemnul</li>
 </ul>
 <h4>For tactical guides:</h4>
     <li><a href="http://www.ultraviolent4.com/guide.html#General_Tactics">UV4's General Tactics</a></li>
