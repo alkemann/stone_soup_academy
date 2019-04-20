@@ -1,4 +1,4 @@
-<h2>Welcome "Weakling"</h2>
+<h2>Welcome "Weakling"*</h2>
 <h4>>Do you have dreams of becoming a "Journeyman" or even an "Adept" crawler?</h4>
 <p>First, you'll need to win a game to get the title of "Amateur" and then a 2nd win to join the ranks of "Novice". 
 <p>But fear not, your dream is the goal of the Cosplay Academy:
@@ -22,3 +22,6 @@ This will also allow you to:
 <h4>For tactical guides:</h4>
     <li><a href="http://www.ultraviolent4.com/guide.html#General_Tactics">UV4's General Tactics</a></li>
     <li><a href="http://www.ultraviolent4.com/patashutactics.html">Patashu's Crawl Tactics Guide</a></li>
+<p />
+_______
+* based on the <a href="https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661">XL rank for player ghosts</a>
