@@ -1,6 +1,6 @@
 <h2>Welcome "Weakling" *</h2>
 <h4>Do you have dreams of becoming a "Journeyman" or even an "Adept" crawler?</h4>
-<p>First, you'll need to win a game to get the title of "Amateur" and then a 2nd win to join the ranks of "Novice". 
+<p>First, you'll need to win a game to get the title of "Amateur" and then a 2nd win to join the <a href="/ranking-system">ranks</a> of "Novice". 
 <p>But fear not, your dream is the goal of the Cosplay Academy:
 <li>To provide you with a structured approach to ease the learning curve while playing fun characters based on Uniques;</li> 
 <p>This will also allow you to:</p>
