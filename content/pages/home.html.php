@@ -4,10 +4,10 @@
 <p>But fear not, your dream is the goal of the Cosplay Academy:
 <li>To provide you with a structured approach to ease the learning curve while playing fun characters based on Uniques;</li> 
 <p>This will also allow you to:</p>
-    <li>better compete in the <a href="http://www.crawlcosplay.com/">weekly Crawl Cosplay Challenge.</a></li>
+    <li>better compete in the <a href="http://www.crawlcosplay.com/">weekly Crawl Cosplay Challenge</a>.</li>
 <p />
 <h4>Your first Academy goal</h4>
-...is to play one of the "melee brutes" below since they are considered to be "easier".</p>
+...is to play one of the "melee brutes" listed below since they are considered to be <b><i>easier</i></b>.</p>
 <p>Once you have won a game, <a href="/submit">Submit your Morque</a> to gain access to your next Unique's mission</a>. 
     You'll also be added to the <a href="/scoreboard">Honour Roll</a> allowing you to see also the accomplishment of other crawlers.</p>
 <p>If you are fairly new to DCSS, the following character guides should be very helpful.</p>
