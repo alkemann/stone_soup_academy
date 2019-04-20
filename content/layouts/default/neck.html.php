@@ -3,7 +3,7 @@
     <div class="toplinks">
         <a href="/">Home</a> | 
         <a href="/about">About</a> |
-        <a href="/scoring.html">Ranking System</a> |
+        <a href="/ranking-system">Ranking System</a> |
         <a href="/submit">Submit a Morgue</a> | 
         <a href="/honour-roll">Honour Roll</a> |
         <a href="/admin">Admin</a>
