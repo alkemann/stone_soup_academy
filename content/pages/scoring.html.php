@@ -11,7 +11,10 @@ Novice is for a win with a Ranged-style unique<p />
 Journeyman is for a win with a hybrid-style unique<p />
 Adept is for a win with a mage-style unique<p />
 <p />
-<u>Possible scoring grid for scoring individual games</u><p />
+Qs<p />
+<li>is it possible to just win a mage-style unique to get the "Adept" rank?</li>
+<p />
+<u>Possible scoring grid for scoring individual games (without a cumulative scoreboard)</u><p />
 <p />
 <table>
 	<tr><th>Milestones</th><th>Pts<th>Max pts</th></tr>
