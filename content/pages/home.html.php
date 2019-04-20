@@ -23,5 +23,5 @@ This will also allow you to:
     <li><a href="http://www.ultraviolent4.com/guide.html#General_Tactics">UV4's General Tactics</a></li>
     <li><a href="http://www.ultraviolent4.com/patashutactics.html">Patashu's Crawl Tactics Guide</a></li>
 <p />
-_______
+_______</p>
 * based on the <a href="https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661">XL rank for player ghosts</a>
