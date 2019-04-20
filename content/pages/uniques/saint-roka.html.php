@@ -91,7 +91,8 @@ because they will gain experience there and become orc knights. Orc knights can 
 a pair of them is extremely powerful during the midgame.
 <br><br>
 Orcs will eventually become named as they gain experience and level up. From ***** you get the ability to gift items to named followers.
-By far, the best thing to give them is a polearm. This is because the reaching property allows an orc to attack even when it's standing behind you or another orc. If a follower already has a one-handed polearm, give them a shield. And if they already have a two-handed polearm, you can go with a ranged weapon or magical armour.
+By far, the best thing to give them is a polearm. This is because the reaching property allows an orc to attack even when it's standing behind you or another orc. 
+If a follower already has a one-handed polearm, give them a shield. And if they already have a two-handed polearm, you can go with a ranged weapon or magical armour.
 <br><br>
 You can run around with all of your army at once or train up smaller groups until they reach orc warlord/sorcerer/high priest. 
 The latter requires a bit more care but you'll ultimately end up with a larger and stronger force. Don't worry too much about 
@@ -137,7 +138,7 @@ tell the other orcs to follow you again with tf.
 <li>Stair dancing is extremely broken with permanent followers if you first tell them to guard the top of the stairs. 
     Monsters will die without being able to act as they ascend.</li>
 <li>Orcs can kind of fight when you can't see them but not very well. If you need to teleport away, 
-    you should recall your followers back to you so they don't die./<li>
+    you should recall your followers back to you so they don't die.</li>
 <li>If you have full piety you can resurrect an orc and it will be brought back to life as a follower. 
 	This can revive one of your fallen comrades but it will also work on an orc that wasn't converted - effectively giving you 
 	another chance to get a powerful orc such as Saint Roka.</li>
