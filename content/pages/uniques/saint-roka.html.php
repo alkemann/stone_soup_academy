@@ -112,24 +112,32 @@ while smiting any vault wardens that lock you in. See how it's done here.
 <br><br>
 Bring your whole army with you into Zot and smite any orbs of fire, curse toes and ancient liches on sight.
 <br><br>
-Other Notes, Tips and Tricks
-Managing your followers
-
-The main difficulty when managing your followers is separating out specific orcs to train. There are two very consistent ways to do this and they both rely on t to issue commands.
-
-For "recall herding" begin by using the recall ability. Each turn, starting with your strongest followers, a couple of orcs will appear. Press tg every turn to tell the arrivals to guard the area. When the orc you want is recalled, stop the recall by using the ability again. As every orc except for the newest to arrive has been told to guard the area, only that one or two will then follow you.
-
-
-"Retreat herding" uses tr to retreat orcs away from you. As warlords have a higher hit dice (HD) than any other orcs, they tend to push their way to the front when retreating. Once they are off the screen and can no longer hear you, tell the other orcs to follow you again with tf.
-
-
-Miscellaneous
-
-Smiting is an amazing ability. It does insane (if you've trained Invocations) amounts of AC-ignoring damage, it can hit anywhere on screen and it can't miss. 
-Don't be afraid to spam the ability. In my most recent Hill Orc game, I used Smiting 191 times.
-You can step behind followers to break line of fire to uniques and monsters with dangerous hexes to avoid being banished or paralysed. Combo this with Smiting for true streak-player(tm) gameplay.
-In a dangerous situation you can recall all your followers to you. Even if you're just trying to escape, many angry orcs will provide a good distraction.
-You can temporarily retreat orcs away from you when facing monsters with large amounts of AoE such as death drakes or fire giants. Just remember to tell them to follow you again before you rest so they don't wander off.
-Stair dancing is extremely broken with permanent followers if you first tell them to guard the top of the stairs. Monsters will die without being able to act as they ascend.
-Orcs can kind of fight when you can't see them but not very well. If you need to teleport away, you should recall your followers back to you so they don't die.
-If you have full piety you can resurrect an orc and it will be brought back to life as a follower. This can revive one of your fallen comrades but it will also work on an orc that wasn't converted - effectively giving you another chance to get a powerful orc such as Saint Roka.
+<h3>Other Notes, Tips and Tricks</h3>
+<h4>Managing your followers</h4>
+The main difficulty when managing your followers is separating out specific orcs to train. 
+There are two very consistent ways to do this and they both rely on t to issue commands.
+<br><br>
+For "recall herding" begin by using the recall ability. Each turn, starting with your strongest followers, a couple of orcs will appear.
+Press tg every turn to tell the arrivals to guard the area. When the orc you want is recalled, stop the recall by using the ability 
+again. As every orc except for the newest to arrive has been told to guard the area, only that one or two will then follow you.
+<br><br>
+"Retreat herding" uses tr to retreat orcs away from you. As warlords have a higher hit dice (HD) than any other orcs, 
+they tend to push their way to the front when retreating. Once they are off the screen and can no longer hear you, 
+tell the other orcs to follow you again with tf.
+<br><br>
+<h4>Miscellaneous</h4>
+<li>Smiting is an amazing ability. It does insane (if you've trained Invocations) amounts of AC-ignoring damage, it can hit anywhere 
+    on screen and it can't miss. Don't be afraid to spam the ability. In my most recent Hill Orc game, I used Smiting 191 times.</li>
+<li>You can step behind followers to break line of fire to uniques and monsters with dangerous hexes to avoid being banished or paralysed. 
+    Combo this with Smiting for true streak-player(tm) gameplay.</li>
+<li>In a dangerous situation you can recall all your followers to you. Even if you're just trying to escape, 
+    many angry orcs will provide a good distraction.</li>
+<li>You can temporarily retreat orcs away from you when facing monsters with large amounts of AoE such as death drakes or fire giants. 
+    Just remember to tell them to follow you again before you rest so they don't wander off.</li>
+<li>Stair dancing is extremely broken with permanent followers if you first tell them to guard the top of the stairs. 
+    Monsters will die without being able to act as they ascend.</li>
+<li>Orcs can kind of fight when you can't see them but not very well. If you need to teleport away, 
+    you should recall your followers back to you so they don't die./<li>
+<li>If you have full piety you can resurrect an orc and it will be brought back to life as a follower. 
+	This can revive one of your fallen comrades but it will also work on an orc that wasn't converted - effectively giving you 
+	another chance to get a powerful orc such as Saint Roka.</li>
