@@ -16,7 +16,7 @@
     <li><img src="/img/Snorg.png"> <a href="/uniques/snorg">Snorg</a>, the <u><b>Tr</b></u>oll <u><b>Be</b></u>rzerker (TrBe) of Trog</li>
     <li><img src="/img/Asterion.png"> <a href="/uniques/asterion">Asterion</a>, the <u><b>Mi</b></u>notaur <u><b>Fi</b></u>ghter (MiFi) of Makhleb</li>
     <li><img src="/img/Saint_Roka.png"> <a href="/uniques/saint-roka">Saint Roka</a>, the <u><b>H</b></u>ill <u><b>O</b></u>rc <u><b>Mo</b></u>nk (HOMo) of Beogh</li>
-</ul> (intermediate)
+(beginner-intermediate level)</ul>
 <h4>For tactical guides:</h4>
     <li><a href="http://www.ultraviolent4.com/guide.html#General_Tactics">UV4's General Tactics</a></li>
     <li><a href="http://www.ultraviolent4.com/patashutactics.html">Patashu's Crawl Tactics Guide</a></li>
