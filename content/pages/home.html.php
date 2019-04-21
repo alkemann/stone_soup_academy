@@ -1,4 +1,4 @@
-<h2>Welcome "Weakling" *</h2>
+<h2>Welcome "Weakling" <abbr title="taken from the DCSS XL rank for player ghosts">*</abbr></h2>
 <h4>Do you have dreams of becoming a "Journeyman" or even an "Adept" crawler?</h4>
 <p>First, you'll need to win a game to get the title of "Amateur" and then a 2nd win to join the 
     <a href="/ranking-system">ranks</a> of "Novice". 
