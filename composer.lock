@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "21dc3527a78ce1401a504087fe4661b6",
+    "content-hash": "ebbbb68be766592d5666c4d3ba7fb004",
     "packages": [
         {
             "name": "alkemann/debug",
@@ -44,16 +44,16 @@
         },
         {
             "name": "alkemann/h2l",
-            "version": "v0.39.1",
+            "version": "v0.40.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/alkemann/h2l.git",
-                "reference": "cdffe5c1c6bc3caff4f12fc7be2a481a5b596ad9"
+                "reference": "5f0c8e535bbe99c9de99b9703df2289d6555e5e7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/alkemann/h2l/zipball/cdffe5c1c6bc3caff4f12fc7be2a481a5b596ad9",
-                "reference": "cdffe5c1c6bc3caff4f12fc7be2a481a5b596ad9",
+                "url": "https://api.github.com/repos/alkemann/h2l/zipball/5f0c8e535bbe99c9de99b9703df2289d6555e5e7",
+                "reference": "5f0c8e535bbe99c9de99b9703df2289d6555e5e7",
                 "shasum": ""
             },
             "require": {
@@ -100,22 +100,22 @@
                 "router",
                 "routing"
             ],
-            "time": "2019-03-24T16:21:06+00:00"
+            "time": "2019-04-12T13:26:43+00:00"
         }
     ],
     "packages-dev": [
         {
             "name": "heroku/heroku-buildpack-php",
-            "version": "v153",
+            "version": "v154",
             "source": {
                 "type": "git",
                 "url": "https://github.com/heroku/heroku-buildpack-php.git",
-                "reference": "59b9c4daeebd70eadc4ae3d394429e3f357c56e8"
+                "reference": "2625279c4b3caf5e2937308d07d4357b411d04d0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/heroku/heroku-buildpack-php/zipball/59b9c4daeebd70eadc4ae3d394429e3f357c56e8",
-                "reference": "59b9c4daeebd70eadc4ae3d394429e3f357c56e8",
+                "url": "https://api.github.com/repos/heroku/heroku-buildpack-php/zipball/2625279c4b3caf5e2937308d07d4357b411d04d0",
+                "reference": "2625279c4b3caf5e2937308d07d4357b411d04d0",
                 "shasum": ""
             },
             "bin": [
@@ -146,7 +146,7 @@
                 "nginx",
                 "php"
             ],
-            "time": "2019-03-19T00:24:16+00:00"
+            "time": "2019-04-04T22:05:24+00:00"
         }
     ],
     "aliases": [],
