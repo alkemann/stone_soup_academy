@@ -1,12 +1,7 @@
 <div id="top-wall">&nbsp;</div>
 <div class="page information">
-    <div class="toplinks">
-        <a href="/">Home</a> | 
-        <a href="/about">About</a> |
-        <a href="/ranking-system">Ranking System</a> |
-        <a href="/submit">Submit a Morgue</a> | 
-        <a href="/honour-roll">Honour Roll</a> |
-        <a href="/admin">Admin</a>
+    <div class="toplinks"> 
+        <pre><a href="/">Home</a> | <a href="/about">About</a> | <a href="/ranking-system">Ranking System</a> | <a href="/submit">Submit a Morgue</a> | <a href="/honour-roll">Honour Roll</a></pre>
     </div>
     <div class="page_content">
         <div class="heading">
