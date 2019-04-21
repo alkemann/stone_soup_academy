@@ -6,9 +6,8 @@
     <div class="page_content">
         <div class="heading">
             <h1><a href="/">Crawl Cosplay Academy</a></h1>
-            <div class="fineprint"><pre>Come chat with us on our <a href="https://discord.gg/ZQ4kk6n" target="_blank">Discord server</a></pre></div>
+            <pre><div class="fineprint">Come chat with us on our <a href="https://discord.gg/ZQ4kk6n" target="_blank">Discord server</a></div></pre>
         </div>
-        <br />
         <img src="/img/HR-right.png"><br />
         <br />
     <div class="content">
