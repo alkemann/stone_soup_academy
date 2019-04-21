@@ -7,6 +7,5 @@
         <div class="heading">
             <h1><a href="/"><pre>Crawl Cosplay Academy</pre></a></h1>
         </div>
-        <br />
         <img src="/img/HR-right.png"><br />
     <div class="content">
