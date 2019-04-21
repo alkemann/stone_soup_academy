@@ -1,3 +1,11 @@
+<?php
+
+use app\models\Player;
+
+ // $player_list = Player::list(); // not implemented yet as we have no db
+$player_list = [1 => 'Rogga', 11 => 'Alkemann', 21 => 'Ace'];
+
+?>
 <h2>Submit a Morgue's URL</h2>
 <form method="POST">
     <input type="hidden" name="challenge_id" value="<?=$cha->id?>">
@@ -5,7 +13,7 @@
         <label>
             <span>Player</span><select name="player_id"> 
                 <option value="">NEW PLAYER</option>
-                <?php $players = Player::list();
+                <?php $players = 
                 foreach ($players as $id => $name) : ?>
                 <option value="<?=$e($id)?>"><?=$e($name)?></option>
                 <?php endforeach; ?>
