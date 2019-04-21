@@ -13,8 +13,8 @@ $player_list = [1 => 'Rogga', 11 => 'Alkemann', 21 => 'Ace'];
         <label>
             <span>Player</span><select name="player_id"> 
                 <option value="">NEW PLAYER</option>
-                <?php $players = 
-                foreach ($players as $id => $name) : ?>
+                <?php
+                foreach ($player_list as $id => $name) : ?>
                 <option value="<?=$e($id)?>"><?=$e($name)?></option>
                 <?php endforeach; ?>
             </select>
