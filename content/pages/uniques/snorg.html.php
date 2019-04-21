@@ -1,5 +1,5 @@
 <h2><img src="/img/Snorg.png"> <a href="http://crawl.chaosforge.org/Snorg">Snorg</a>, the Insatiable</h2>
-<pre>            <i>An exceptionally fat troll who will go berserk at the slightest provocation.</i></pre><br />
+<pre>              <i>An exceptionally fat troll who will go berserk at the slightest provocation.</i></pre><br />
 <img src="/img/HR-right.png"><br />
 
 <h2>Character Guide</h2>
