@@ -1,7 +1,9 @@
 <table>
-	<tr><td><img src="/img/Asterion.png"></td><td><h2><a href="http://crawl.chaosforge.org/Asterion">Asterion</a> </h2>: </td><td>"Makhleb has given me powers of destruction."</td></tr>
-	<tr><td></td><td><i>	Once a king infamous for waging bloodthirsty campaigns, Asterion was exiled to the depths of the dungeon for his crimes. Here he lurks in his tattered finery, dreaming of a new kingdom. 
-                        In his lust for power, the minotaur king turned to the worship of Makhleb, and Makhleb has rewarded him with horrifying destructive might.</i></td><td></td></tr>
+	<tr><td><img src="/img/Asterion.png"></td><td><h2><a href="http://crawl.chaosforge.org/Asterion">Asterion</a>: "Makhleb has given me powers of destruction."</h2></td></tr>
+	<tr><td></td><td><i>Once a king infamous for waging bloodthirsty campaigns, Asterion was exiled to the depths of the dungeon for
+				his crimes. Here he lurks in his tattered finery, dreaming of a new kingdom. 
+                            	In his lust for power, the minotaur king turned to the worship of Makhleb, and Makhleb has rewarded him
+				with horrifying destructive might.</i></td></tr>
 </table>
 <br />
 <img src="/img/HR-right.png"><br />
