@@ -1,4 +1,4 @@
-<h2><img src="/img/Saint_Roka.png"> <a href="http://crawl.chaosforge.org/Saint_Roka">Saint Roka</a>: <pre>"Only Beogh rules here!"</pre></h2>
+<h2><img src="/img/Saint_Roka.png"> <a href="http://crawl.chaosforge.org/Saint_Roka">Saint Roka</a>: "Only Beogh rules here!"</h2>
 <pre>                    <i>A mighty warlord. Some orcs even say he is the Chosen One of Beogh.</i></pre>
 <br />
 <img src="/img/HR-right.png"><br />
