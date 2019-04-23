@@ -1,4 +1,6 @@
-<h2><img src="/img/Snorg.png" height="64" width="64"> <a href="http://crawl.chaosforge.org/Snorg">Snorg</a>, the Insatiable</h2>
+<ul class="charlist">
+    <li><h2><img src="/img/Snorg.png" height="64" width="64"> <a href="http://crawl.chaosforge.org/Snorg">Snorg</a>, the Insatiable</h2></li>
+</ul>	
 <pre>              <i>An exceptionally fat troll who will go berserk at the slightest provocation.</i></pre><br />
 <img src="/img/HR-right.png"><br />
 
