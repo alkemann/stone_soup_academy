@@ -1,7 +1,9 @@
-<ul class="charlist">
-    <li><h2><img src="/img/Snorg.png" height="64" width="64"> <a href="http://crawl.chaosforge.org/Snorg">Snorg</a>, the Insatiable</h2></li>
-</ul>	
-<pre>              <i>An exceptionally fat troll who will go berserk at the slightest provocation.</i></pre><br />
+<table>
+<td><ul class="charlist">
+	<li><h2><img src="/img/Snorg.png" height="48" width="48"> <a href="http://crawl.chaosforge.org/Snorg">Snorg</a>, the Insatiable</h2></li>
+		</ul></td>	
+	<td><pre>              <i>An exceptionally fat troll who will go berserk at the slightest provocation.</i></pre></td>
+</table>
 <img src="/img/HR-right.png"><br />
 
 <h2>Character Guide</h2>
