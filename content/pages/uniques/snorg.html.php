@@ -1,4 +1,4 @@
-<table border"1px black">
+<table border="1px black">
 	<td><ul class="charlist">
 		<li><h2><img src="/img/Snorg.png" height="48" width="48"> <a href="http://crawl.chaosforge.org/Snorg">Snorg</a>, the Insatiable</h2></li></ul></td>	
 	<td><ul class="charlist">
