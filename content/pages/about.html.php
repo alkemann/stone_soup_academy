@@ -1,5 +1,5 @@
 <h2>About Cosplay Academy</h2>
-Crawl's CosPlay Academy (CCA) is intended as a prequel to the weekly 
+The Crawl CosPlay Academy (CCA) is intended as a prequel to the weekly 
 <a href="http://www.crawlcosplay.com/" target="_blank" title="Visit the CCC website">Crawl Cosplay Challenge</a> (CCC)...and yet, on its own, it is so much more.
 As a prequel, it's for players who don't feel they have the skills necessary yet to compete in the Crawl Cosplay Challenge at a level that isn't just beginner.
 In general though, the audience is <abbr title="Dungeon Craw: Stone Soup">DCSS</abbr> players who are fairly new to the game or haven't won at least 5 games with each of the different styled combos.
@@ -20,7 +20,7 @@ If you did not win the game, you get assigned a ghost XL title from the followin
   <tr><td>24+</td><td>Legendary</td></tr>
 </table>
 <br>
-When you do win with 1 Unique's combo, you'll be awarded the Bronze Certification for that play style.
+When you do win with 1 Unique's combo, you'll be awarded the Bronze Certification for that playstyle.
 With a 2nd win with a different Unique's combo from the same playstyle, you'll be awarded the Silver Certification.
 And again a 3rd win will grant you the Gold Certification.
 There are 5 playstyles:
