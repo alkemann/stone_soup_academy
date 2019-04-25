@@ -1,8 +1,8 @@
 <h2>Welcome Crawler!</h2>
-<p>Your mission, if you choose to accept it, is to become certified with the Crawl Cosplay Academy (CCA).
-While doing so, you'll play fun combos as you learn to survive longer, and hopefully win many games sooner than later.
-<p>So buckle up with <abbr title="Crawl Cosplay Academy">CCA</abbr> as we provide you with a structured approach to ease the learning curve 
-    while playing characters based on <a href="http://crawl.chaosforge.org/Unique_monster">DCSS Uniques</a> such as our maskot: Snorg <img src="/img/Snorg.png">.
+<p><img src="/img/Snorg.png" style="float:right">Your mission, if you choose to accept it, is to become certified with the Crawl Cosplay Academy (CCA).
+While doing so, you'll play fun combos as you learn to survive longer, and hopefully win many games sooner than later. 
+So buckle up with <abbr title="Crawl Cosplay Academy">CCA</abbr> as we provide you with a structured approach to ease the learning curve 
+while playing characters based on <a href="http://crawl.chaosforge.org/Unique_monster">DCSS Uniques</a> such as our maskot: Snorg.
 <h4>Ready?</h4>
 Want to know more before jumping in? See the <a href="/about">About</a> section.
 <h4>Set, GO!</h4>
