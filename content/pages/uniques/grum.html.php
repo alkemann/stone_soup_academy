@@ -1,4 +1,4 @@
-<h2><img src="/img/grum.png" height="48" width="48"> <a href="http://crawl.chaosforge.org/Grum" target="_blank">Grum</a>: "I'll hound you night and day!"</h2></td></tr>
+<h2><img src="/img/Grum.png" height="48" width="48"> <a href="http://crawl.chaosforge.org/Grum" target="_blank">Grum</a>: "I'll hound you night and day!"</h2></td></tr>
 <blockquote><blockquote><blockquote><i>
 
 </i></blockquote></blockquote></blockquote>
