@@ -5,11 +5,10 @@ While doing so, you'll play fun combos as you learn to survive longer, and hopef
     <a href="http://crawl.chaosforge.org/Unique_monster">DCSS Uniques</a>.
 This will <i><b>also</b></i> prepare you to compete at an intermediate level in the weekly <a href="http://www.crawlcosplay.com/">Crawl Cosplay Challenge</a>.
 <h4>Ready?</h4>
-Want to know more before jumping in? See the <a href="/about">About</a> section.    
+Want to know more before jumping in? See the <a href="/about">About</a> section.
 <h4>Set, GO!</h4>
 Your first Academy goal is to play one of the "melee brutes" listed below since they are considered to be the <b><i>easier</i></b> combos of the easiest category.</p>
-<p>Once you have a "good" game, <a href="/submit">Submit your Morque</a> to gain access to your porfolio</a>.
-<p>You'll also be added to the <a href="/scoreboard">Honour Roll</a> allowing you to see also the accomplishment of other crawlers.</p>
+<p>Once you have one of your better games, <a href="/submit">Submit your Morque</a> to gain access to your porfolio</a>.
 <p>If you are fairly new to DCSS, the following character guides should be very helpful.</p>
 <h3>Guides for "Simple" melee characters:</h3>
 <ul class="charlist">
