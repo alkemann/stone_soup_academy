@@ -6,4 +6,4 @@
 
 <h2>Character Guide</h2>
 <p>As a <a href="http://crawl.chaosforge.org/Gnoll" target="_blank">Gnoll</a> 
-        <a href="http://crawl.chaosforge.org/Summuner"  target="_blank">Summuner</a> (GnSu)...</p>
+        <a href="http://crawl.chaosforge.org/Summoner"  target="_blank">Summoner</a> (GnSu)...</p>
