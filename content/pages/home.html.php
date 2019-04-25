@@ -1,16 +1,16 @@
-<h2>Welcome "Weakling" <abbr title="taken from the DCSS XL rank for player ghosts">*</abbr></h2>
-<p>Would you like to compete in the weekly <a href="http://www.crawlcosplay.com/">Crawl Cosplay Challenge</a> but feel your skills aren't up for the challenge yet.</p>
-<p>Would you like a fun way to play easier combos while you learn how to survive longer?
-<p>That's what the Crawl Cosplay Academy is all about;
-<li>To provide you with a structured approach to ease the learning curve while playing fun characters based on 
+<h2>Welcome Crawler,
+<p>Your mission, if you choose to accept it, is to become a certified with the Crawl Cosplay Academy.
+<p>While doing so, you'll play fun combos as you learn to survive longer...and hopefully win a game sooner than later.
+<p>So buckle up with Crawl Cosplay Academy as:
+<li>we provide you with a structured approach to ease the learning curve while playing fun characters based on 
     <a href="http://crawl.chaosforge.org/Unique_monster">DCSS Uniques</a>.</li> 
 <p>This will also allow you to:</p>
     <li>better compete in the weekly <a href="http://www.crawlcosplay.com/">Crawl Cosplay Challenge</a>.</li>
 
-<h4>Your first Academy goal...</h4>
-...is to play one of the "melee brutes" listed below since they are considered to be <b><i>easier</i></b>.</p>
-<p>Once you have won a game, <a href="/submit">Submit your Morque</a> to gain access to your next Unique's mission</a>. 
-    You'll also be added to the <a href="/scoreboard">Honour Roll</a> allowing you to see also the accomplishment of other crawlers.</p>
+<h4>Ready? Set, GO!</h4>
+Your first Academy goal is to play one of the "melee brutes" listed below since they are considered to be <b><i>easier</i></b> of their category.</p>
+<p>Once you have a "good" game, <a href="/submit">Submit your Morque</a> to gain access to porfolio</a>.
+<p>You'll also be added to the <a href="/scoreboard">Honour Roll</a> allowing you to see also the accomplishment of other crawlers.</p>
 <p>If you are fairly new to DCSS, the following character guides should be very helpful.</p>
 <h3>Guides for "Simple" melee characters:</h3>
 <ul class="charlist">
