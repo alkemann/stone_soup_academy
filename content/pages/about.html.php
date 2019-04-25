@@ -7,7 +7,7 @@ As a prequel, it's for players who don't feel they have the skills necessary yet
 <h4>Certification Process</h4>
 As you complete a game with either a win or <abbr title="Yet Another Sad Death">YASD</abbr>, you submit your morgue to track your progress.
 If you did not win the game, you get assigned a ghost XL title from the following:
-
+<br>
 <table>
   <tr><th>XL</th><th>Title</th></tr>
   <tr><td> 3</td><td>Weakling</td></tr>
@@ -19,7 +19,7 @@ If you did not win the game, you get assigned a ghost XL title from the followin
   <tr><td>21</td><td>Master</td></tr>
   <tr><td>24+</td><td>Legendary</td></tr>
 </table>
-
+<br>
 -- under construction --
   <p>You'll also be added to the <a href="/scoreboard">Honour Roll</a> allowing you to see also the accomplishment of other crawlers.</p>
 
