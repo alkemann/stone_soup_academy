@@ -17,7 +17,7 @@ If you have never won a game, your first Academy goal is to play one of the "mel
     <li><a href="/uniques/saint-roka"><img src="/img/Saint_Roka.png"> Saint Roka</a>, the <u><b>H</b></u>ill <u><b>O</b></u>rc <u><b>Mo</b></u>nk (<abbr title="Hill Orc Monk">HOMo</abbr>) of Beogh (beginner-intermediate level)</li>
 </ul>
 <h3>Need more help?</h3>
-<p>Come chat with us on our <a href="https://discord.gg/ZQ4kk6n">CosPlay Discord server</a> in the #cosplay-academy text channel.
+<p>Come chat with us on our <a href="https://discord.gg/ZQ4kk6n" target="_blank">CosPlay Discord server</a> in the #cosplay-academy text channel.
 <p>Want to do a bit of the legwork on your own, then read the following:
 <h4>Tactical guides:</h4>
     <li><a href="http://www.ultraviolent4.com/guide.html#General_Tactics" target="_blank">UV4's General Tactics</a></li>
