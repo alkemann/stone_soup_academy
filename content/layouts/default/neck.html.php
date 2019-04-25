@@ -6,7 +6,7 @@
     </div>
     <div class="page_content">
         <div class="heading">
-            <h1><a href="/"><code>Crawl Cosplay Academy</code></a> 
+            <h1><a href="/"><code>Crawl Cosplay Academy</code></a> - 
                 <a href="/uniques/snorg" title="Snorg"><img src="/img/Snorg.png"></a> 
                 <a href="/uniques/asterion" title="Asterion"><img src="/img/Asterion.png"></a> 
                 <a href="/uniques/saint-roka" title="Saint Roka"><img src="/img/Saint_Roka.png"></a> - 
