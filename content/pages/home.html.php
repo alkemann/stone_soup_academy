@@ -7,10 +7,10 @@ maskot, <b><i>Snorg</b></i>:
 <h4>Ready?</h4>
 Want to know more before jumping in? See the <a href="/about">About</a> section.
 <h4>Set, GO!</h4>
-Your first Academy goal is to play one of the "melee brutes" listed below since they are considered to be the <b><i>easier</i></b> combos of the easiest category.</p>
-<p>Once you have completed one of your better games, <a href="/submit">Submit your Morque</a> to gain access to your porfolio</a>.
+If you have never won a game, your first Academy goal is to play one of the "melee brutes" listed below since they are considered to be the
+<b><i>easier</i></b> combos of the easiest category. Once you have completed one of your better games, <a href="/submit">Submit your Morque</a> to gain access to your porfolio</a>.
 <p>If you are fairly new to DCSS, the following character guides should be very helpful.</p>
-<h3>Guides for "Simple" melee characters:</h3>
+<h3>Guides and conducts for "Simple" melee characters:</h3>
 <ul class="charlist">
     <li><img src="/img/Snorg.png"> <a href="/uniques/snorg">Snorg</a>, the <u><b>Tr</b></u>oll <u><b>Be</b></u>rzerker (<abbr title="Troll Berzerker">TrBe</abbr>) of Trog</li>
     <li><img src="/img/Asterion.png"> <a href="/uniques/asterion">Asterion</a>, the <u><b>Mi</b></u>notaur <u><b>Fi</b></u>ghter (<abbr title="Minotaur Fighter">MiFi</abbr>) of Makhleb</li>
