@@ -7,12 +7,12 @@ In general though, the audience is <abbr title="Dungeon Craw: Stone Soup">DCSS</
 <h4>Certification Process</h4>
 As you complete a game with either a win or <abbr title="Yet Another Sad Death">YASD</abbr>, you submit your morgue to track your progress.
 If you did not win the game, you get assigned a ghost XL title from the following:
-<br>
+<br><br>
 <table>
   <tr><th>XL</th><th>Title</th></tr>
-  <tr><td> 3</td><td>Weakling</td></tr>
-  <tr><td> 6</td><td>Amateur</td></tr>
-  <tr><td> 9</td><td>Novice</td></tr>
+  <tr><td>&nbsp3</td><td>Weakling</td></tr>
+  <tr><td>&nbsp6</td><td>Amateur</td></tr>
+  <tr><td>&nbsp9</td><td>Novice</td></tr>
   <tr><td>12</td><td>Journeyman</td></tr>
   <tr><td>15</td><td>Adept</td></tr>
   <tr><td>18</td><td>Veteran</td></tr>
