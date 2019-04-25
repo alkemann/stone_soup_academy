@@ -5,5 +5,5 @@ to the worship of Makhleb, and Makhleb has rewarded him with horrifying destruct
 <img src="/img/HR-right.png"><br />
 
 <h2>Character Guide</h2>
-<p>As a <a href="http://crawl.chaosforge.org/Minortaur" target="_blank">Minotaur</a> 
+<p>As a <a href="http://crawl.chaosforge.org/Minotaur" target="_blank">Minotaur</a> 
         <a href="http://crawl.chaosforge.org/Fighter" target="_blank">Fighter</a> (MiFi) of Makhleb...</p>
