@@ -26,6 +26,18 @@ And again a 3rd win will grant you the Gold Certification.
 There are 5 playstyles:
 Melee Weapon, Ranged Weapon, Hybrid, Magic, and "special ops".
 The last category is for popular combos that don't fit well in the previous four categories.
+
+Here's an example of a fictional porfolio:
+
+<table>
+  <tr><th>Category</th><th>Level</th></tr>
+  <tr><td>Melee</td><td>GOLD certified</td></tr>
+  <tr><td>Ranged</td><td>BRONZE certified</td></tr>
+  <tr><td>Hybrid</td><td>SILVER certified</td></tr>
+  <tr><td>Magic</td><td>Journeyman</td></tr>
+  <tr><td>Special Ops</td><td>-</td></tr>
+</table>
+
 -- under construction --
   <p>You'll also be added to the <a href="/scoreboard">Honour Roll</a> allowing you to see also the accomplishment of other crawlers.</p>
 
