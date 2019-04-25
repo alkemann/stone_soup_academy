@@ -1,4 +1,4 @@
-<h2>Welcome Crawler,
+<h2>Welcome Crawler</h2>,
 <p>Your mission, if you choose to accept it, is to become a certified with the Crawl Cosplay Academy.
 <p>While doing so, you'll play fun combos as you learn to survive longer...and hopefully win a game sooner than later.
 <p>So buckle up with Crawl Cosplay Academy as:
