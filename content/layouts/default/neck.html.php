@@ -10,6 +10,8 @@
                 <a href="/uniques/snorg" title="Snorg"><img src="/img/Snorg.png"></a> 
                 <a href="/uniques/asterion" title="Asterion"><img src="/img/Asterion.png"></a> 
                 <a href="/uniques/saint-roka" title="Saint Roka"><img src="/img/Saint_Roka.png"></a>
+                <a href="/uniques/nessos" title="Nessos"><img src="/img/Nessos.png"></a>
+                <a href="/uniques/grum" title="Grum"><img src="/img/Grum.png"></a>
             </h1>
         </div>
         <img src="/img/HR-right.png"><br />
