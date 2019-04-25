@@ -5,7 +5,7 @@ Crawl's CosPlay Academy (CCA) is a prequel to the weekly
 It's also for players who don't feel they have the skills necessary yet to compete in the Crawl Cosplay Challenge at a level that isn't just beginner.
 
 <h3>Certification Process</h3>
-As you complete a game with either a win or <abbr="Yet Another Sad Death">YASD</abbr>, you submit your morgue to track your progress.
+As you complete a game with either a win or YASD, you submit your morgue to track your progress.
 If you did not win the game, you get assigned a ghost XL title from the following:
 
 <table>
