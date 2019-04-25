@@ -43,3 +43,5 @@ Here's an example of a fictional porfolio:
 
 Once you are certified, you feel ready to compete at an intermediate level in the weekly 
 <a href="http://www.crawlcosplay.com/">Crawl Cosplay Challenge</a>.
+
+( taken from:  <a href="https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661">https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661</a> )<p />
