@@ -24,6 +24,3 @@ Your first Academy goal is to play one of the "melee brutes" listed below since 
 <h4>Tactical guides:</h4>
     <li><a href="http://www.ultraviolent4.com/guide.html#General_Tactics">UV4's General Tactics</a></li>
     <li><a href="http://www.ultraviolent4.com/patashutactics.html">Patashu's Crawl Tactics Guide</a></li>
-<p />
-_______</p>
-* based on the <a href="https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661">XL rank for player ghosts</a>
