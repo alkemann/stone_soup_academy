@@ -1,14 +1,13 @@
 <h2>Welcome Crawler!</h2>
 <p>Your mission, if you choose to accept it, is to become a certified with the Crawl Cosplay Academy (CCA).
 While doing so, you'll play fun combos as you learn to survive longer, and hopefully win many games sooner than later.
-<p>So buckle up with <abbr title="Crawl Cosplay Academy">CCA</abbr> as:
-<li>we provide you with a structured approach to ease the learning curve while playing fun characters based on 
-    <a href="http://crawl.chaosforge.org/Unique_monster">DCSS Uniques</a>.</li>
+<p>So buckle up with <abbr title="Crawl Cosplay Academy">CCA</abbr> as we provide you with a structured approach to ease the learning curve while playing fun characters based on 
+    <a href="http://crawl.chaosforge.org/Unique_monster">DCSS Uniques</a>.
 <p>This will <i><b>also</b></i> prepare you to compete in the weekly <a href="http://www.crawlcosplay.com/">Crawl Cosplay Challenge</a>.</li>
 <h4>Ready?</h4>
 Want to know more before jumping in? See the <a href="/about">About</a> section.    
 <h4>Set, GO!</h4>
-Your first Academy goal is to play one of the "melee brutes" listed below since they are considered to be <b><i>easier</i></b> of the easiest category.</p>
+Your first Academy goal is to play one of the "melee brutes" listed below since they are considered to be <b><i>easier</i></b> combos of the easiest category.</p>
 <p>Once you have a "good" game, <a href="/submit">Submit your Morque</a> to gain access to your porfolio</a>.
 <p>You'll also be added to the <a href="/scoreboard">Honour Roll</a> allowing you to see also the accomplishment of other crawlers.</p>
 <p>If you are fairly new to DCSS, the following character guides should be very helpful.</p>
