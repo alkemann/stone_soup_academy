@@ -1,10 +1,10 @@
 <h2>Welcome Crawler!</h2>
-<p>Your mission, if you choose to accept it, is to become a certified with the Crawl Cosplay Academy.
-<p>While doing so, you'll play fun combos as you learn to survive longer, and hopefully win a game sooner than later.
-<p>So buckle up with Crawl Cosplay Academy as:
+<p>Your mission, if you choose to accept it, is to become a certified with the Crawl Cosplay Academy (CCA).
+<p>While doing so, you'll play fun combos as you learn to survive longer, and hopefully win many games sooner than later.
+<p>So buckle up with <abbr title="Crawl Cosplay Academy">CCA</abbr> as:
 <li>we provide you with a structured approach to ease the learning curve while playing fun characters based on 
-    <a href="http://crawl.chaosforge.org/Unique_monster">DCSS Uniques</a>.</li> 
-<p>This will also allow you to:</p>
+    <a href="http://crawl.chaosforge.org/Unique_monster">DCSS Uniques</a>.</li>
+<p>This will <b>also</b> allow you to:</p>
     <li>better compete in the weekly <a href="http://www.crawlcosplay.com/">Crawl Cosplay Challenge</a>.</li>
 
 <h4>Ready?</h4>
