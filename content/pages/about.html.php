@@ -24,8 +24,12 @@ When you do win with 1 Unique's combo, you'll be awarded the Bronze Certificatio
 With a 2nd win with a different Unique's combo from the same playstyle, you'll be awarded the Silver Certification.
 And again a 3rd win will grant you the Gold Certification.
 There are 5 playstyles:
-Melee Weapon, Ranged Weapon, Hybrid, Magic, and "special ops".
-The last category is for popular combos that don't fit well in the previous four categories.
+<a href="/melee">Melee Weapon</a>, 
+<a href="/ranged"Ranged Weapon</a>, 
+<a href="hybrid">Hybrid</a>, 
+<a href="magic">Magic</a>, and 
+<a href="special">"special ops"</a>.
+The last category is for popular combos that don't fit well in the previous ones.
 
 Here's an example of a fictional porfolio:
 
@@ -35,7 +39,7 @@ Here's an example of a fictional porfolio:
   <tr><td>Ranged</td><td>BRONZE certified</td></tr>
   <tr><td>Hybrid</td><td>SILVER certified</td></tr>
   <tr><td>Magic</td><td>Journeyman</td></tr>
-  <tr><td>Special Ops</td><td>-</td></tr>
+  <tr><td>Special Ops</td><td>Adept</td></tr>
 </table>
 
 -- under construction --
