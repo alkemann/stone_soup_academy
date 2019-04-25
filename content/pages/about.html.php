@@ -10,14 +10,14 @@ If you did not win the game, you get assigned a ghost XL title from the followin
 
 <table>
   <tr><th>XL</th><th>Title</th></tr>
-  <tr><th> 3</th><th>Weakling</th></tr>
-  <tr><th> 6</th><th>Amateur</th></tr>
-  <tr><th> 9</th><th>Novice</th></tr>
-  <tr><th>12</th><th>Journeyman</th></tr>
-  <tr><th>15</th><th>Adept</th></tr>
-  <tr><th>18</th><th>Veteran</th></tr>
-  <tr><th>21</th><th>Master</th></tr>
-  <tr><th>24+</th><th>Legendary</th></tr>
+  <tr><td> 3</td><td>Weakling</td></tr>
+  <tr><td> 6</td><td>Amateur</td></tr>
+  <tr><td> 9</td><td>Novice</td></tr>
+  <tr><td>12</td><td>Journeyman</td></tr>
+  <tr><td>15</td><td>Adept</td></tr>
+  <tr><td>18</td><td>Veteran</td></tr>
+  <tr><td>21</td><td>Master</td></tr>
+  <tr><td>24+</td><td>Legendary</td></tr>
 <table>
 
 -- under construction --
