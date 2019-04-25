@@ -6,7 +6,11 @@
     </div>
     <div class="page_content">
         <div class="heading">
-            <h1><a href="/"><code>Crawl Cosplay Academy</code></a> <img src="/img/Snorg.png"> <img src="/img/Asterion.png"> <img src="/img/Saint_Roka.png"></h1>
+            <h1><a href="/"><code>Crawl Cosplay Academy</code></a> |
+                <a href="/uniques/snorg"><img src="/img/Snorg.png"></a> | 
+                <a href="/uniques/asterion"><img src="/img/Asterion.png"></a> | 
+                <a href="/uniques/saint-roka"><img src="/img/Saint_Roka.png"></a>
+            </h1>
         </div>
         <img src="/img/HR-right.png"><br />
     <div class="content">
