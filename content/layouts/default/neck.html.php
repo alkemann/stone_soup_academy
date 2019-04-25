@@ -15,6 +15,8 @@
                 <a href="/uniques/joseph" title="Joseph"><img src="/img/Joseph.png"></a> 
                 <a href="/uniques/grum" title="Grum"><img src="/img/Grum.png"></a> 
                 <a href="/uniques/ilsuiw" title="Ilsuiw"><img src="/img/Ilsuiw.png"></a> 
+                <a href="/uniques/jorgrun" title="Jorgrun"><img src="/img/Jorgrun.png"></a> 
+                <a href="/uniques/fannar" title="Fannar"><img src="/img/Fannar.png"></a> 
             </h1>
         </div>
         <img src="/img/HR-right.png"><br />
