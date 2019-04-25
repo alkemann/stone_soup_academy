@@ -4,7 +4,7 @@ The Crawl CosPlay Academy (CCA) is intended as a prequel to the weekly
 As a prequel, it's for players who don't feel they have the skills necessary yet to compete in the Crawl Cosplay Challenge at a level that isn't just beginner.
 In general though, the audience is <abbr title="Dungeon Craw: Stone Soup">DCSS</abbr> players who are fairly new to the game or haven't won at least 5 games with each of the different styled combos.
 
-<h4>Certification Process</h4>
+<h2>Certification Process</h2>
 After you complete a good game (with either a win or <abbr title="Yet Another Sad Death">YASD</abbr>), you submit your morgue to track your progress.
 If you did not win the game, you get assigned a ghost XL title from the following:
 <br><br>
