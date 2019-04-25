@@ -12,6 +12,7 @@
                 <a href="/uniques/saint-roka" title="Saint Roka"><img src="/img/Saint_Roka.png"></a> 
                 <a href="/uniques/nessos" title="Nessos"><img src="/img/Nessos.png"></a> 
                 <a href="/uniques/sonya" title="Sonja"><img src="/img/Sonja.png"></a> 
+                <a href="/uniques/joseph" title="Joseph"><img src="/img/Joseph.png"></a> 
                 <a href="/uniques/grum" title="Grum"><img src="/img/Grum.png"></a> 
                 <a href="/uniques/ilsuiw" title="Ilsuiw"><img src="/img/Ilsuiw.png"></a> 
             </h1>
