@@ -12,9 +12,9 @@ If you have never won a game, your first Academy goal is to play one of the "mel
 <p>If you are fairly new to DCSS, the following character guides should be very helpful.</p>
 <h3>Guides and conducts for "Simple" melee characters:</h3>
 <ul class="charlist">
-    <li><img src="/img/Snorg.png"> <a href="/uniques/snorg">Snorg</a>, the <u><b>Tr</b></u>oll <u><b>Be</b></u>rzerker (<abbr title="Troll Berzerker">TrBe</abbr>) of Trog</li>
-    <li><img src="/img/Asterion.png"> <a href="/uniques/asterion">Asterion</a>, the <u><b>Mi</b></u>notaur <u><b>Fi</b></u>ghter (<abbr title="Minotaur Fighter">MiFi</abbr>) of Makhleb</li>
-    <li><img src="/img/Saint_Roka.png"> <a href="/uniques/saint-roka">Saint Roka</a>, the <u><b>H</b></u>ill <u><b>O</b></u>rc <u><b>Mo</b></u>nk (<abbr title="Hill Orc Monk">HOMo</abbr>) of Beogh (beginner-intermediate level)</li>
+    <li><a href="/uniques/snorg"><img src="/img/Snorg.png"> Snorg</a>, the <u><b>Tr</b></u>oll <u><b>Be</b></u>rzerker (<abbr title="Troll Berzerker">TrBe</abbr>) of Trog</li>
+    <li><a href="/uniques/asterion"><img src="/img/Asterion.png"> Asterion</a>, the <u><b>Mi</b></u>notaur <u><b>Fi</b></u>ghter (<abbr title="Minotaur Fighter">MiFi</abbr>) of Makhleb</li>
+    <li><a href="/uniques/saint-roka"><img src="/img/Saint_Roka.png"> Saint Roka</a>, the <u><b>H</b></u>ill <u><b>O</b></u>rc <u><b>Mo</b></u>nk (<abbr title="Hill Orc Monk">HOMo</abbr>) of Beogh (beginner-intermediate level)</li>
 </ul>
 <h3>Need more help?</h3>
 <p>Come chat with us on our <a href="https://discord.gg/ZQ4kk6n">CosPlay Discord server</a> in the #cosplay-academy text channel.
