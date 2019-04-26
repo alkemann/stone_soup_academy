@@ -33,7 +33,6 @@ If you did not win the game, you get assigned a ghost XL title from the followin
   <a href="magic">Magic</a>. </p>
 
 <p>Here's an example of a fictional player profile:</p>
-<br />
 <table>
   <tr><th>Category</th><th>Level</th><th>Accomplishment</th></tr>
   <tr><td>Melee</td><td>GOLD medal</td><td>3 wins with each melee Unique</td></tr>
