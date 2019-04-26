@@ -12,7 +12,7 @@ If you have never won a game, your first Academy goal is to play one of the 3 "m
 <p>If you are fairly new to DCSS, the character guides should be very helpful. 
    Just select a playstyle or a specific Unique at the top to gain access to them.</p>
 <h3>Submit your morgues</h3>
-Once you have completed one of your better games, <a href="/submit">Submit your Morque</a> to gain access to your porfolio</a>. 
+Once you have completed one of your better games, <a href="/submit">Submit your Morgue</a> to gain access to your porfolio</a>. 
 Also, feel free to submit your old morgues that used the specific combos. 
 <h3>Need more help?</h3>
 <p>Come chat with us on our <a href="https://discord.gg/ZQ4kk6n" target="_blank">CosPlay Discord server</a> in the #cosplay-academy text channel.
