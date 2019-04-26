@@ -22,18 +22,18 @@ If you did not win the game, you get assigned a ghost XL title from the followin
   <tr><td>21</td><td>Master</td></tr>
   <tr><td>24+</td><td>Legendary</td></tr>
 </table>
-<br>
-When you do win with 1 Unique's combo, you'll be awarded the Bronze medal for that playstyle.
-With a 2nd win with a different Unique's combo from the same playstyle, you'll be awarded a Silver medal.
-And again a 3rd win will grant you the Gold medal.
-There are 4 playstyles with 3 uniques each:
+<br />
+<p>When you do win with 1 Unique's combo, you'll be awarded the Bronze medal for that playstyle.
+  With a 2nd win with a different Unique's combo from the same playstyle, you'll be awarded a Silver medal.
+  And again a 3rd win will grant you the Gold medal.</p>
+<p>There are 4 playstyles with 3 uniques each:
 <a href="/melee">Melee Weapons</a>, 
 <a href="/ranged">Ranged Weapons</a>, 
 <a href="hybrid">Hybrid</a>, and
-<a href="magic">Magic</a>.
+  <a href="magic">Magic</a>. </p>
 
-Here's an example of a fictional player profile:
-
+<p>Here's an example of a fictional player profile:</p>
+<br />
 <table>
   <tr><th>Category</th><th>Level</th><th>Accomplishment</th></tr>
   <tr><td>Melee</td><td>GOLD medal</td><td>3 wins with each melee Unique</td></tr>
@@ -41,6 +41,7 @@ Here's an example of a fictional player profile:
   <tr><td>Hybrid</td><td>SILVER medal</td><td>2 wins with different hybrid Uniques</td></tr>
   <tr><td>Magic</td><td>Journeyman</td><td>no win yet but reached XL 15-17</td></tr>
 </table>
+<br />
 
 -- under construction --
   <p>Once you have a win, you'll also be added to the <a href="/certified">Certification Wall</a> allowing you to see also the accomplishment of other crawlers.</p>
