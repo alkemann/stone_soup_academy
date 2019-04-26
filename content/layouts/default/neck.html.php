@@ -21,5 +21,5 @@
                 <a href="/uniques/josephine" title="Josephine, the DDNe"><img src="/img/Josephine.png"></a> 
             </h1>
         </div>
-        <pre><img src="/img/HR-right-short.png">         Melee             Ranged            Hybrid            Magic</pre>
+        <pre><img src="/img/HR-right-short.png">         Melee            Ranged            Hybrid             Magic</pre>
     <div class="content">
