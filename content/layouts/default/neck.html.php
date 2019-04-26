@@ -6,7 +6,7 @@
     </div>
     <div class="page_content">
         <div class="heading">
-            <h1><a href="/"><code>Crawl Cosplay Academy</code></a> - 
+            <h1><a href="/"><code>Crawl Cosplay Academy</code></a> ... 
                 <a href="/uniques/snorg" title="Snorg, the TrBe"><img src="/img/Snorg.png"></a> 
                 <a href="/uniques/asterion" title="Asterion, the MiFi"><img src="/img/Asterion.png"></a> 
                 <a href="/uniques/saint-roka" title="Saint Roka, the HOMo"><img src="/img/Saint_Roka.png"></a> - 
@@ -21,5 +21,5 @@
                 <a href="/uniques/josephine" title="Josephine, the DDNe"><img src="/img/Josephine.png"></a> 
             </h1>
         </div>
-        <pre><img src="/img/HR-right-short.png">         <a href="/melee">Melee</a>            <a href="/ranged">Ranged</a>            <a href="/hybrid">Hybrid</a>             <a href="/magic">Magic</a></pre>
+        <pre><img src="/img/HR-right-short.png">          <a href="/melee">Melee</a>            <a href="/ranged">Ranged</a>            <a href="/hybrid">Hybrid</a>             <a href="/magic">Magic</a></pre>
     <div class="content">
