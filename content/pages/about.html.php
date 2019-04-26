@@ -25,7 +25,7 @@ With a 2nd win with a different Unique's combo from the same playstyle, you'll b
 And again a 3rd win will grant you the Gold Certification.
 There are 4 playstyles with 3 uniques each:
 <a href="/melee">Melee Weapons</a>, 
-<a href="/ranged"Ranged Weapons</a>, 
+<a href="/ranged">Ranged Weapons</a>, 
 <a href="hybrid">Hybrid</a>, and
 <a href="magic">Magic</a>.
 
