@@ -5,7 +5,7 @@ As a prequel, it's for players who don't feel they have the skills necessary yet
 In general though, the audience is <abbr title="Dungeon Craw: Stone Soup">DCSS</abbr> players who are fairly new to the game or haven't won at least 5 games with each of the different styled combos.
 
 <h2>Certification Process</h2>
-After you complete a good game (with either a win or <abbr title="Yet Another Sad Death">YASD</abbr>), you submit your morgue to track your progress.
+After you complete a good game (with either a win or <abbr title="Yet Another Sad Death">YASD</abbr>), you <a href="/submit">Submit your Morgue</a> to track your progress.
 If you did not win the game, you get assigned a ghost XL title from the following:
 <br><br>
 <table>
