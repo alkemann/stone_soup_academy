@@ -42,9 +42,26 @@ If you did not win the game, you get assigned a ghost XL title from the followin
   <tr><td>Magic</td><td>Journeyman</td><td>no win yet but reached XL 15-17</td></tr>
 </table>
 <br />
+<p>And here's an example of a detailed player profile:</p>
+<br />
+<table>
+  <tr><th>Level</th>
+      <th><a href="/uniques/snorg" title="Snorg, the Troll Berzerker (TrBe)"><img src="/img/Snorg.png"></a></th>
+      <th><a href="/uniques/asterion" title="Asterion, the Minotaur Fighter (MiFi)"><img src="/img/Asterion.png"></a></th>
+      <th><a href="/uniques/saint-roka" title="Saint Roka, the Hill Orc Monk (HOMo)"><img src="/img/Saint_Roka.png"></a></th>
+      <th><a href="/uniques/nessos" title="Nessos, the Centaur Hunter (CeHu)"><img src="/img/Nessos.png"></a></th>
+      <th><a href="/uniques/sonya" title="Sonja, the Kobole Assassin (KoAs)"><img src="/img/Sonja.png"></a></th>
+      <th><a href="/uniques/joseph" title="Joseph, the Halfling Hunter (HaHu)"><img src="/img/Joseph.png"></a></th>
+      <th><a href="/uniques/grum" title="Grum, the Gnoll Summoner (GnSu)"><img src="/img/Grum.png"></a></th>
+      <th><a href="/uniques/ilsuiw" title="Ilsuiw, the Merfolk Skald (MfSk)"><img src="/img/Ilsuiw.png"></a></th>
+      <th><a href="/uniques/jory" title="Jory, the Vampire Enchanter (VpEn)"><img src="/img/Jory.png"></a></th>
+      <th><a href="/uniques/tiamat" title="Tiamat, the Draconian Wizard (DrWz)"><img src="/img/Tiamat.png"></a></th>
+      <th><a href="/uniques/fannar" title="Fannar, the Deep Elf Ice Elementalist (DEIE)"><img src="/img/Fannar.png"></a></th>
+      <th><a href="/uniques/josephine" title="Josephine, the Deep Dwarf Necromancer (DDNe)"><img src="/img/Josephine.png"></a> </th></tr>
+</table>
 
 -- under construction --
-  <p>Once you have a win, you'll also be added to the <a href="/certified">Certification Wall</a> allowing you to see also the accomplishment of other crawlers.</p>
+  <p>Once you have a win, you'll also be added to the <a href="/certified">Honour Roll</a> allowing you to see also the accomplishment of other crawlers.</p>
 
 Once you are certified, you'll likely feel ready to compete at an intermediate level in the weekly 
 <a href="http://www.crawlcosplay.com/">Crawl Cosplay Challenge</a>.
