@@ -10,8 +10,8 @@
                 <a href="/uniques/snorg" title="Snorg, the Troll Berzerker (TrBe)"><img src="/img/Snorg.png"></a> 
                 <a href="/uniques/asterion" title="Asterion, the Minotaur Fighter (MiFi)"><img src="/img/Asterion.png"></a> 
                 <a href="/uniques/saint-roka" title="Saint Roka, the Hill Orc Monk (HOMo)"><img src="/img/Saint_Roka.png"></a> - 
-                <a href="/uniques/nessos" title="Nessos, the Centaur Hunter(CeHu)"><img src="/img/Nessos.png"></a> 
-                <a href="/uniques/sonya" title="Sonja, the Kobole Assassin(KoAs)"><img src="/img/Sonja.png"></a> 
+                <a href="/uniques/nessos" title="Nessos, the Centaur Hunter (CeHu)"><img src="/img/Nessos.png"></a> 
+                <a href="/uniques/sonya" title="Sonja, the Kobole Assassin (KoAs)"><img src="/img/Sonja.png"></a> 
                 <a href="/uniques/joseph" title="Joseph, the Halfling Hunter (HaHu)"><img src="/img/Joseph.png"></a> - 
                 <a href="/uniques/grum" title="Grum, the Gnoll Summoner (GnSu)"><img src="/img/Grum.png"></a> 
                 <a href="/uniques/ilsuiw" title="Ilsuiw, the Merfolk Skald (MfSk)"><img src="/img/Ilsuiw.png"></a> 
