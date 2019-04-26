@@ -23,15 +23,13 @@ If you did not win the game, you get assigned a ghost XL title from the followin
 When you do win with 1 Unique's combo, you'll be awarded the Bronze Certification for that playstyle.
 With a 2nd win with a different Unique's combo from the same playstyle, you'll be awarded the Silver Certification.
 And again a 3rd win will grant you the Gold Certification.
-There are 5 playstyles:
-<a href="/melee">Melee Weapon</a>, 
-<a href="/ranged"Ranged Weapon</a>, 
-<a href="hybrid">Hybrid</a>, 
-<a href="magic">Magic</a>, and 
-<a href="special">"special ops"</a>.
-The last category is for popular combos that don't fit well in the previous ones.
+There are 4 playstyles with 3 uniques each:
+<a href="/melee">Melee Weapons</a>, 
+<a href="/ranged"Ranged Weapons</a>, 
+<a href="hybrid">Hybrid</a>, and
+<a href="magic">Magic</a>.
 
-Here's an example of a fictional porfolio:
+Here's an example of a fictional player profile:
 
 <table>
   <tr><th>Category</th><th>Level</th></tr>
@@ -39,13 +37,12 @@ Here's an example of a fictional porfolio:
   <tr><td>Ranged</td><td>BRONZE certified</td></tr>
   <tr><td>Hybrid</td><td>SILVER certified</td></tr>
   <tr><td>Magic</td><td>Journeyman</td></tr>
-  <tr><td>Special Ops</td><td>Adept</td></tr>
 </table>
 
 -- under construction --
-  <p>You'll also be added to the <a href="/scoreboard">Honour Roll</a> allowing you to see also the accomplishment of other crawlers.</p>
+  <p>Once you have a win, you'll also be added to the <a href="/certified">Certification Wall</a> allowing you to see also the accomplishment of other crawlers.</p>
 
-Once you are certified, you feel ready to compete at an intermediate level in the weekly 
+Once you are certified, you'll likely feel ready to compete at an intermediate level in the weekly 
 <a href="http://www.crawlcosplay.com/">Crawl Cosplay Challenge</a>.
 
 ( taken from:  <a href="https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661">https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661</a> )<p />
