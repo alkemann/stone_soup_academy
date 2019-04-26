@@ -16,7 +16,7 @@
                 <a href="/uniques/grum" title="Grum, the GnSu"><img src="/img/Grum.png"></a> 
                 <a href="/uniques/ilsuiw" title="Ilsuiw, the MfSk"><img src="/img/Ilsuiw.png"></a> 
                 <a href="/uniques/jory" title="Jory, the VpEn"><img src="/img/Jory.png"></a> - 
-                <a href="/uniques/jorgrun" title="Jorgrun, the GrEE"><img src="/img/Jorgrun.png"></a>   
+                <a href="/uniques/tiamat" title="Tiamat, the DrWz"><img src="/img/Tiamat.png"></a>   
                 <a href="/uniques/fannar" title="Fannar, the DEIE"><img src="/img/Fannar.png"></a> 
                 <a href="/uniques/josephine" title="Josephine, the DDNe"><img src="/img/Josephine.png"></a> 
             </h1>
