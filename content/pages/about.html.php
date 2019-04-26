@@ -1,4 +1,4 @@
-<h2>About Cosplay Academy</h2>
+<h2 style="color:rgb(69, 136, 5);">About Cosplay Academy</h2>
 The Crawl CosPlay Academy (CCA) is intended as a prequel to the weekly 
 <a href="http://www.crawlcosplay.com/" target="_blank" title="Visit the CCC website">Crawl Cosplay Challenge</a> (CCC)...and yet, 
 on its own, it is so much more.
