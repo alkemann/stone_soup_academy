@@ -11,7 +11,7 @@ If you have never won a game, your first Academy goal is to play one of the "mel
 <b><i>easier</i></b> combos of the easiest category. 
 <h3>Submit your morgues</h3>
 Once you have completed one of your better games, <a href="/submit">Submit your Morque</a> to gain access to your porfolio</a>.
-<p>If you are fairly new to DCSS, the following character guides should be very helpful.</p>
+<p>If you are fairly new to DCSS, the character guides should be very helpful. Just select a playstyle of a specific Unique at the top.</p>
 <h3>Need more help?</h3>
 <p>Come chat with us on our <a href="https://discord.gg/ZQ4kk6n" target="_blank">CosPlay Discord server</a> in the #cosplay-academy text channel.
 <p>Want to do a bit of the legwork on your own, then read the following:
