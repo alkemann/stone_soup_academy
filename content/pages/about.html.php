@@ -23,9 +23,9 @@ If you did not win the game, you get assigned a ghost XL title from the followin
   <tr><td>24+</td><td>Legendary</td></tr>
 </table>
 <br>
-When you do win with 1 Unique's combo, you'll be awarded the Bronze Certification for that playstyle.
-With a 2nd win with a different Unique's combo from the same playstyle, you'll be awarded the Silver Certification.
-And again a 3rd win will grant you the Gold Certification.
+When you do win with 1 Unique's combo, you'll be awarded the Bronze medal for that playstyle.
+With a 2nd win with a different Unique's combo from the same playstyle, you'll be awarded a Silver medal.
+And again a 3rd win will grant you the Gold medal.
 There are 4 playstyles with 3 uniques each:
 <a href="/melee">Melee Weapons</a>, 
 <a href="/ranged">Ranged Weapons</a>, 
@@ -36,9 +36,9 @@ Here's an example of a fictional player profile:
 
 <table>
   <tr><th>Category</th><th>Level</th><th>Accomplishment</th></tr>
-  <tr><td>Melee</td><td>GOLD certified</td><td>3 wins with each melee Unique</td></tr>
-  <tr><td>Ranged</td><td>BRONZE certified</td><td>1 win with a ranged Unique</td></tr>
-  <tr><td>Hybrid</td><td>SILVER certified</td><td>2 wins with different hybrid Uniques</td></tr>
+  <tr><td>Melee</td><td>GOLD medal</td><td>3 wins with each melee Unique</td></tr>
+  <tr><td>Ranged</td><td>BRONZE medal</td><td>1 win with a ranged Unique</td></tr>
+  <tr><td>Hybrid</td><td>SILVER medal</td><td>2 wins with different hybrid Uniques</td></tr>
   <tr><td>Magic</td><td>Journeyman</td><td>no win yet but reached XL 15-17</td></tr>
 </table>
 
