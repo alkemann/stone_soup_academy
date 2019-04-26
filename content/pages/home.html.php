@@ -5,7 +5,7 @@ sooner than later. So buckle up with <abbr title="Crawl Cosplay Academy">CCA</ab
 the learning curve while playing characters based on <a href="http://crawl.chaosforge.org/Unique_monster" target="_blank">DCSS Uniques</a>
 such as our maskot, <b><i>Snorg</b></i>:
 <h4>Ready?</h4>
-Want to know more before jumping in? See the <a href="/about">About</a> section.
+Want to know more before jumping in? Read the <a href="/about">About</a> section.
 <h4>Set, GO!</h4>
 If you have never won a game, your first Academy goal is to play one of the "melee brutes" listed below since they are considered to be the
 <b><i>easier</i></b> combos of the easiest category. Once you have completed one of your better games, <a href="/submit">Submit your Morque</a> to gain access to your porfolio</a>.
