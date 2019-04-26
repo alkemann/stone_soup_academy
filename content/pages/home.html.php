@@ -1,4 +1,4 @@
-<h2 style="color:orange";>Welcome Crawler!</h2>
+<h2 style="color:rgb(69, 136, 5);">Welcome green Crawler!</h2>
 <p><img src="/img/Snorg.png" style="float:right;width:48px;height:48px;">Want to improve your gameplay while having fun doing it? 
 Just join for free the Crawl Cosplay Academy (CCA) to make that happen. While doing so, you'll play Unique-like combos as you learn to 
 survive longer, and hopefully win many games sooner than later. So buckle up with <abbr title="Crawl Cosplay Academy">CCA</abbr> 
