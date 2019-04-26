@@ -32,11 +32,11 @@ There are 4 playstyles with 3 uniques each:
 Here's an example of a fictional player profile:
 
 <table>
-  <tr><th>Category</th><th>Level</th></tr>
-  <tr><td>Melee</td><td>GOLD certified</td></tr>
-  <tr><td>Ranged</td><td>BRONZE certified</td></tr>
-  <tr><td>Hybrid</td><td>SILVER certified</td></tr>
-  <tr><td>Magic</td><td>Journeyman</td></tr>
+  <tr><th>Category</th><th>Level</th><th>Accomplishment</th></tr>
+  <tr><td>Melee</td><td>GOLD certified</td><td>3 wins with each melee Unique</td></tr>
+  <tr><td>Ranged</td><td>BRONZE certified</td><td>1 win with a ranged Unique</td></tr>
+  <tr><td>Hybrid</td><td>SILVER certified</td><td>2 wins with different hybrid Uniques</td></tr>
+  <tr><td>Magic</td><td>Journeyman</td><td>no win yet but reached XL 15-17</td></tr>
 </table>
 
 -- under construction --
