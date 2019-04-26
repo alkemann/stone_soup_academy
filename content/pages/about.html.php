@@ -34,7 +34,7 @@ If you did not win the game, you get assigned a ghost XL title from the followin
 
 <p>Here's an example of a fictional player profile:</p>
 <table>
-  <tr><th>Category</th><th>Level</th><th>Accomplishment</th></tr>
+  <tr><th>Playstyles</th><th>Level</th><th>Accomplishment</th></tr>
   <tr><td>Melee</td><td>GOLD medal</td><td>3 wins with each melee Unique</td></tr>
   <tr><td>Ranged</td><td>BRONZE medal</td><td>1 win with a ranged Unique</td></tr>
   <tr><td>Hybrid</td><td>SILVER medal</td><td>2 wins with different hybrid Uniques</td></tr>
@@ -44,6 +44,7 @@ If you did not win the game, you get assigned a ghost XL title from the followin
 <p>And here's an example of a detailed player profile:</p>
 <br />
 <table>
+  <tr><th>Level</th><th colspan="3">Melee</th><th colspan="3">Ranged</th><th colspan="3">Hybrid</th><th colspan="3">Magic</th></tr>
   <tr><th>Level</th>
       <th><a href="/uniques/snorg" title="Snorg, the Troll Berzerker (TrBe)"><img src="/img/Snorg.png"></a></th>
       <th><a href="/uniques/asterion" title="Asterion, the Minotaur Fighter (MiFi)"><img src="/img/Asterion.png"></a></th>
