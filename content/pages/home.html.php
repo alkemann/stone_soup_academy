@@ -7,16 +7,14 @@ as we provide you with a structured approach to ease the learning curve while pl
 <h4>Ready?</h4>
 Want to know more before jumping in? Read the <a href="/about">About</a> section.
 <h4>Set...GO!</h4>
-If you have never won a game, your first Academy goal is to play one of the 3 "melee brutes" listed above since they are considered to be the
+If you have never won a game, your first Academy goal is to play one of the "melee brutes" listed above since they are considered to be the
 <b><i>easier</i></b> combos of the easiest category. 
-<p>If you are fairly new to DCSS, the character guides should be very helpful. 
-   Just select a playstyle or a specific Unique at the top to gain access to them.</p>
-<h3>Submit your morgues</h3>
+<h3><a href="/submit">Submit your morgues</a></h3>
 Once you have completed one of your better games, <a href="/submit">Submit your Morgue</a> to gain access to your porfolio</a>. 
-Also, feel free to submit your old morgues that used the specific combos. 
+Also, feel free to submit your old morgues that used any of the Unique's specific combos. 
 <h3>Need more help?</h3>
 <p>Come chat with us on our <a href="https://discord.gg/ZQ4kk6n" target="_blank">CosPlay Discord server</a> in the #cosplay-academy text channel.
 <p>Want to do a bit of the legwork on your own, then read the following:
-<h4>Tactical guides:</h4>
+<h3 style="color:rgb(69, 136, 5);">Tactical guides:</h3>
     <li><a href="http://www.ultraviolent4.com/guide.html#General_Tactics" target="_blank">UV4's General Tactics</a></li>
     <li><a href="http://www.ultraviolent4.com/patashutactics.html" target="_blank">Patashu's Crawl Tactics Guide</a></li>
