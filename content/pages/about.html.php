@@ -22,6 +22,7 @@ If you did not win the game, you get assigned a ghost XL title from the followin
   <tr><td>21</td><td>Master</td></tr>
   <tr><td>24+</td><td>Legendary</td></tr>
 </table>
+( taken from:  <a href="https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661">https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661</a> )<p />
 <br />
 <p>When you do win with 1 Unique's combo, you'll be awarded the Bronze medal for that playstyle.
   With a 2nd win with a different Unique's combo from the same playstyle, you'll be awarded a Silver medal.
@@ -75,5 +76,3 @@ If you did not win the game, you get assigned a ghost XL title from the followin
 
 Once you are certified, you'll likely feel ready to compete at an intermediate level in the weekly 
 <a href="http://www.crawlcosplay.com/">Crawl Cosplay Challenge</a>.
-
-( taken from:  <a href="https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661">https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661</a> )<p />
