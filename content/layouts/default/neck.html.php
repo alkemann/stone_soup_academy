@@ -6,7 +6,7 @@
     </div>
     <div class="page_content">
         <div class="heading">
-            <pre><h1><a href="/"><code>Crawl Cosplay Academy</code></a> ... 
+            <h1><a href="/"><code>Crawl Cosplay Academy</code></a> ... 
                 <a href="/uniques/snorg" title="Snorg, the Troll Berzerker (TrBe)"><img src="/img/Snorg.png"></a> 
                 <a href="/uniques/saint-roka" title="Saint Roka, the Hill Orc Monk (HOMo)"><img src="/img/Saint_Roka.png"></a> - 
                 <a href="/uniques/nessos" title="Nessos, the Centaur Hunter (CeHu)"><img src="/img/Nessos.png"></a> 
