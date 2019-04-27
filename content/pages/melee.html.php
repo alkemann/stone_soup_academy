@@ -12,5 +12,5 @@
             <li>Train Axes to mindelay (14+).</li>
             <li>Select STR at every 3rd level.</li>
             <li>Don't abandon Beogh for a 3 rune win.</li>
-            <li>Read <a href="http://www.ultraviolent4.com/characters/homo.html">UV4's guide for HIll Orc Monk of Beogh</a></li></ol>
+            <li>Read <a href="http://www.ultraviolent4.com/characters/homo.html" target="_blank" >UV4's guide for HIll Orc Monk of Beogh</a></li></ol>
 </ul>
