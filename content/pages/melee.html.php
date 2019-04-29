@@ -2,7 +2,7 @@
 <ul class="charlist">
     <li><img src="/img/Snorg.png"> Snorg, the <u><b>Tr</b></u>oll <u><b>Be</b></u>rzerker (<abbr title="Troll Berzerker">TrBe</abbr>) of Trog</li>
         <ol><li>Turn on manual training for Fighting, Unarmed Combat (UC), and dodging for the whole game.</li>
-            <li>Select STR at every 3rd level.</li>
+            <li>Select STR at every 3rd level, unless INT falls below 3.</li>
             <li>Use a shield when you find one, and turn on Shield training.</li>
             <li>Don't abandon Trog for a 3 rune win.</li></ol>
     <li><img src="/img/Asterion.png"> Asterion, the <u><b>Mi</b></u>notaur <u><b>Fi</b></u>ghter (<abbr title="Minotaur Fighter">MiFi</abbr>) of Makhleb</li>
