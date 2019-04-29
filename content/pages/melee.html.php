@@ -1,4 +1,5 @@
 <h3>Conducts for "Simple" melee characters:</h3>
+<br />
 <ul class="charlist"><li><img src="/img/Snorg.png"> Snorg, the <u><b>Tr</b></u>oll <u><b>Be</b></u>rzerker (<abbr title="Troll Berzerker">TrBe</abbr>) of Trog</li></ul>
 <blockquote><blockquote>
             <ol><li>Turn on manual training for Fighting, Unarmed Combat (UC), and dodging for the whole game.</li>
@@ -6,6 +7,7 @@
             <li>Use a shield when you find one, and turn on Shield training.</li>
             <li>Don't abandon Trog for a 3 rune win.</li></ol>
 </blockquote></blockquote>
+<br />
 <ul class="charlist"><li><img src="/img/Asterion.png"> Asterion, the <u><b>Mi</b></u>notaur <u><b>Fi</b></u>ghter (<abbr title="Minotaur Fighter">MiFi</abbr>) of Makhleb</li></ul>
 <blockquote><blockquote>
             <ol><li>Turn on manual training for Fighting and dodging for the whole game.</li>
@@ -14,6 +16,7 @@
             <li>Worship Makhleb</li>
             <li>Don't abandon Makhleb for a 3 rune win.</li></ol>
 </blockquote></blockquote>
+<br />
 <ul class="charlist"><li><img src="/img/Saint_Roka.png"> Saint Roka, the <u><b>H</b></u>ill <u><b>O</b></u>rc <u><b>Mo</b></u>nk (<abbr title="Hill Orc Monk">HOMo</abbr>) of Beogh (beginner-intermediate level)</li></ul>
 <blockquote><blockquote>
             <ol><li>Choose Axe as starting melee weapon</li>
