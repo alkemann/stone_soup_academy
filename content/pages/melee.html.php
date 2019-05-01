@@ -1,6 +1,9 @@
 <h2>Conducts for simpler melee characters:</h2>
 <br />
-<ul class="charlist"><li><img src="/img/Snorg.png"> Snorg, the <u><b>Tr</b></u>oll <u><b>Be</b></u>rzerker (<abbr title="Troll Berzerker">TrBe</abbr>) of Trog</li></ul>
+<ul class="charlist"><li><img src="/img/Snorg.png"> <a href="http://crawl.chaosforge.org/Snorg">Snorg</a>, 
+            the <a href="http://crawl.chaosforge.org/Troll"><u><b>Tr</b></u>oll</a> 
+            <a href="http://crawl.chaosforge.org/Berserker"><u><b>Be</b></u>rzerker</a>
+            (<abbr title="Troll Berzerker">TrBe</abbr>) of Trog</li></ul>
 <blockquote><blockquote>
             <ol><li>Turn on manual training for Fighting, Unarmed Combat (UC), and dodging for the whole game.</li>
             <li>Select STR at every 3rd level, unless INT falls below 3.</li>
