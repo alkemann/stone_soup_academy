@@ -1,9 +1,10 @@
 <h2>Conducts for simpler melee characters:</h2>
 <br />
-<ul class="charlist"><li><img src="/img/Snorg.png"> <a href="http://crawl.chaosforge.org/Snorg">Snorg</a>, 
-            the <a href="http://crawl.chaosforge.org/Troll"><u><b>Tr</b></u>oll</a> 
-            <a href="http://crawl.chaosforge.org/Berserker"><u><b>Be</b></u>rzerker</a>
-            (<abbr title="Troll Berzerker">TrBe</abbr>) of Trog</li></ul>
+<ul class="charlist"><li><img src="/img/Snorg.png"> <a href="http://crawl.chaosforge.org/Snorg" target="_blank">Snorg</a>, 
+            the <a href="http://crawl.chaosforge.org/Troll" target="_blank"><u><b>Tr</b></u>oll</a> 
+            <a href="http://crawl.chaosforge.org/Berserker" target="_blank"><u><b>Be</b></u>rzerker</a>
+            (<abbr title="Troll Berzerker">TrBe</abbr>) of 
+            <a href="http://crawl.chaosforge.org/Trog" target="_blank">Trog</a></li></ul>
 <blockquote><blockquote>
             <ol><li>Turn on manual training for Fighting, Unarmed Combat (UC), and dodging for the whole game.</li>
             <li>Select STR at every 3rd level, unless INT falls below 3.</li>
@@ -11,7 +12,11 @@
             <li>Don't abandon Trog for a 3 rune win.</li></ol>
 </blockquote></blockquote>
 <br />
-<ul class="charlist"><li><img src="/img/Asterion.png"> Asterion, the <u><b>Mi</b></u>notaur <u><b>Fi</b></u>ghter (<abbr title="Minotaur Fighter">MiFi</abbr>) of Makhleb</li></ul>
+<ul class="charlist"><li><img src="/img/Asterion.png"> <a href="http://crawl.chaosforge.org/Asterion" target="_blank">Asterion</a>, 
+            the <a href="http://crawl.chaosforge.org/Minotaur" target="_blank"><u><b>Mi</b></u>notaur</a>
+            <a href="http://crawl.chaosforge.org/Fighter" target="_blank"><u><b>Fi</b></u>ghter</a>
+            (<abbr title="Minotaur Fighter">MiFi</abbr>) of 
+            <a href="http://crawl.chaosforge.org/Makhleb" target="_blank">Makhleb</a></li></ul>
 <blockquote><blockquote>
             <ol><li>Turn on manual training for Fighting and dodging for the whole game.</li>
             <li>Train melee weapon skill to mindelay (10+).</li>
