@@ -24,9 +24,11 @@
             <li>Don't abandon Makhleb for a 3 rune win.</li></ol>
 </blockquote></blockquote>
 <br />
-<ul class="charlist"><li><img src="/img/Saint_Roka.png"> Saint Roka,
-            the <u><b>H</b></u>ill <u><b>O</b></u>rc <u><b>Mo</b></u>nk 
-            (<abbr title="Hill Orc Monk">HOMo</abbr>) of Beogh <img src="/img/Beogh_altar.png"> (beginner-intermediate level)</li></ul>
+<ul class="charlist"><li><img src="/img/Saint_Roka.png"> <a href="http://crawl.chaosforge.org/Saint_Roka" target="_blank">Saint Roka</a>,
+            the <a href="http://crawl.chaosforge.org/Hill_Orc" target="_blank"><u><b>H</b></u>ill <u><b>O</b></u>rc</a> 
+            <a href="http://crawl.chaosforge.org/Monk" target="_blank"><u><b>Mo</b></u>nk</a> 
+            (<abbr title="Hill Orc Monk">HOMo</abbr>) of 
+            <a href="http://crawl.chaosforge.org/Beogh" target="_blank">Beogh</a> <img src="/img/Beogh_altar.png"> (beginner-intermediate level)</li></ul>
 <blockquote><blockquote>
             <ol><li>Choose Axe as starting melee weapon</li>
             <li>Turn on manual training for Fighting and dodging for the whole game.</li>
