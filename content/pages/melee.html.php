@@ -3,7 +3,7 @@
             the <a href="http://crawl.chaosforge.org/Troll" target="_blank"><u><b>Tr</b></u>oll</a> 
             <a href="http://crawl.chaosforge.org/Berserker" target="_blank"><u><b>Be</b></u>rzerker</a>
             (<abbr title="Troll Berzerker">TrBe</abbr>) of 
-            <a href="http://crawl.chaosforge.org/Trog" target="_blank">Trog</a></li></ul>
+            <a href="http://crawl.chaosforge.org/Trog" target="_blank">Trog</a> <img src="/img/Trog_altar.png"></li></ul>
 <blockquote><blockquote>
             <ol><li>Turn on manual training for Fighting, Unarmed Combat (UC), and dodging for the whole game.</li>
             <li>Select STR at every 3rd level, unless INT falls below 3.</li>
@@ -15,7 +15,7 @@
             the <a href="http://crawl.chaosforge.org/Minotaur" target="_blank"><u><b>Mi</b></u>notaur</a>
             <a href="http://crawl.chaosforge.org/Fighter" target="_blank"><u><b>Fi</b></u>ghter</a>
             (<abbr title="Minotaur Fighter">MiFi</abbr>) of 
-            <a href="http://crawl.chaosforge.org/Makhleb" target="_blank">Makhleb</a></li></ul>
+            <a href="http://crawl.chaosforge.org/Makhleb" target="_blank">Makhleb</a> <img src="/img/Makhleb_altar.png"></li></ul>
 <blockquote><blockquote>
             <ol><li>Turn on manual training for Fighting and dodging for the whole game.</li>
             <li>Train melee weapon skill to mindelay (10+).</li>
@@ -24,7 +24,9 @@
             <li>Don't abandon Makhleb for a 3 rune win.</li></ol>
 </blockquote></blockquote>
 <br />
-<ul class="charlist"><li><img src="/img/Saint_Roka.png"> Saint Roka, the <u><b>H</b></u>ill <u><b>O</b></u>rc <u><b>Mo</b></u>nk (<abbr title="Hill Orc Monk">HOMo</abbr>) of Beogh (beginner-intermediate level)</li></ul>
+<ul class="charlist"><li><img src="/img/Saint_Roka.png"> Saint Roka,
+            the <u><b>H</b></u>ill <u><b>O</b></u>rc <u><b>Mo</b></u>nk 
+            (<abbr title="Hill Orc Monk">HOMo</abbr>) of Beogh <img src="/img/Beogh_altar.png"> (beginner-intermediate level)</li></ul>
 <blockquote><blockquote>
             <ol><li>Choose Axe as starting melee weapon</li>
             <li>Turn on manual training for Fighting and dodging for the whole game.</li>
