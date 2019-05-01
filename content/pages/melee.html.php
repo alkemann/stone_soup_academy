@@ -1,4 +1,4 @@
-<h3>Conducts for "Simple" melee characters:</h3>
+<h2>Conducts for simpler melee characters:</h2>
 <br />
 <ul class="charlist"><li><img src="/img/Snorg.png"> Snorg, the <u><b>Tr</b></u>oll <u><b>Be</b></u>rzerker (<abbr title="Troll Berzerker">TrBe</abbr>) of Trog</li></ul>
 <blockquote><blockquote>
