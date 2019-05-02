@@ -7,7 +7,7 @@ that isn't just beginner.
 In general though, the audience is <abbr title="Dungeon Craw: Stone Soup">DCSS</abbr> players who are fairly new to the game or 
 haven't won at least a game with each of the four playstyles.
 
-<h2>Process</h2>
+<h3>Process</h3>
 After you complete a good game (with either a win or <abbr title="Yet Another Sad Death">YASD</abbr>), you <a href="/submit">Submit your Morgue</a> to track your progress.
 If you did not win the game, you get assigned a ghost XL title from the following:
 <br><br>
