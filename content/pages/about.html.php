@@ -9,7 +9,7 @@ haven't won at least a game with each of the four playstyles.
 
 <h3>Process</h3>
 After you complete a good game (with either a win or <abbr title="Yet Another Sad Death">YASD</abbr>), you <a href="/submit">Submit your Morgue</a> to track your progress.
-If you did not win the game, you get assigned a ghost XL title from the following:
+If you did not win the game, you get assigned a ghost XL title*:
 <br><br>
 <table>
   <tr><th>XL</th><th>Title</th></tr>
@@ -22,16 +22,17 @@ If you did not win the game, you get assigned a ghost XL title from the followin
   <tr><td>21</td><td>Master</td></tr>
   <tr><td>24+</td><td>Legendary</td></tr>
 </table>
-( taken from:  <a href="https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661">https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661</a> )<p />
 <br />
-<p>When you do win with 1 Unique's combo, you'll be awarded the Bronze medal for that playstyle.
-  With a 2nd win with a different Unique's combo from the same playstyle, you'll be awarded a Silver medal.
-  And again a 3rd win will grant you the Gold medal.</p>
 <p>There are 4 playstyles with 3 uniques each:
-<a href="/melee">Melee Weapons</a>, 
-<a href="/ranged">Ranged Weapons</a>, 
-<a href="hybrid">Hybrid</a>, and
-  <a href="magic">Magic</a>. </p>
+  <a href="/melee">Melee Weapons</a>, <a href="/ranged">Ranged Weapons</a>, 
+  <a href="hybrid">Hybrid</a>, and    <a href="magic">Magic</a>. </p>
+
+<p>When you do win you'll be awarded the Bronze medal for that playstyle.
+  With a 2nd win from the different playstyle, you'll be awarded a Silver medal.
+  And again a 3rd win in a 3rd category will grant you the Gold medal.</p>
+  Finally, when you have a win in each of the 4 playstyle, you'll be fully Certified by the CosPlay Academy.
+
+<p>Also, once you have a win, you'll be added to the <a href="/certified">Honour Roll</a> allowing you to see also the accomplishment of other crawlers.</p>
 
 <p>Here's an example of a fictional player profile:</p>
 <table>
@@ -70,9 +71,7 @@ If you did not win the game, you get assigned a ghost XL title from the followin
   <tr><td>Weakling (XL:3-5)</td></tr>
   <tr><td>- (XL:1-2)</td></tr>
 </table>
-
--- under construction --
-  <p>Once you have a win, you'll also be added to the <a href="/certified">Honour Roll</a> allowing you to see also the accomplishment of other crawlers.</p>
-
-Once you are certified, you'll likely feel ready to compete at an intermediate level in the weekly 
+Once you are certified, you'll likely feel ready to compete at an intermediate to advanced level in the weekly 
 <a href="http://www.crawlcosplay.com/">Crawl Cosplay Challenge</a>.
+_______
+* taken from: <a href="https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661">https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661</a>
