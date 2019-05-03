@@ -36,8 +36,8 @@ If you did not win the game, you get assigned a ghost XL title*:
 <p>Here's an example of a detailed player profile:</p>
 <br />
 <table>
-  <tr><th> Playstyle:</th><th colspan="3">Melee</th><th colspan="3">Ranged</th><th colspan="3">Hybrid</th><th colspan="3">Magic</th></tr>
-  <tr><th>Level</th>
+  <tr><th colspan="2"> Playstyle:</th><th colspan="3">Melee</th><th colspan="3">Ranged</th><th colspan="3">Hybrid</th><th colspan="3">Magic</th></tr>
+  <tr><th>Title</th><th>Level</th>
       <th><a href="/uniques/snorg" title="Snorg, the Troll Berzerker (TrBe)"><img src="/img/Snorg.png"></a></th>
       <th><a href="/uniques/asterion" title="Asterion, the Minotaur Fighter (MiFi)"><img src="/img/Asterion.png"></a></th>
       <th><a href="/uniques/saint-roka" title="Saint Roka, the Hill Orc Monk (HOMo)"><img src="/img/Saint_Roka.png"></a></th>
@@ -50,18 +50,18 @@ If you did not win the game, you get assigned a ghost XL title*:
       <th><a href="/uniques/tiamat" title="Tiamat, the Draconian Wizard (DrWz)"><img src="/img/Tiamat.png"></a></th>
       <th><a href="/uniques/fannar" title="Fannar, the Deep Elf Ice Elementalist (DEIE)"><img src="/img/Fannar.png"></a></th>
       <th><a href="/uniques/josephine" title="Josephine, the Deep Dwarf Necromancer (DDNe)"><img src="/img/Josephine.png"></a> </th></tr>
-  <tr><td>WIN</td><td> &#10004</td><td></td><td></td><td></td><td> &#10004</td></tr></tr>
-  <tr><td>Legendary (XL:24-27)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td> &#10004</td></tr>
-  <tr><td>Master (XL:21-23)</td><td></td><td> &#10004</td></tr>
-  <tr><td>Veteran (XL:18-20)</td></tr>
-  <tr><td>Adept (XL:15-17)</td></tr>
-  <tr><td>Journeyman (XL:12-14)</td></tr>
-  <tr><td>Novice (XL:9-11)</td></tr>
-  <tr><td>Amateur (XL:6-8)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td> &#10004</td></tr>
-  <tr><td>Weakling (XL:3-5)</td></tr>
-  <tr><td>- (XL:1-2)</td></tr>
+  <tr><td>Medal</td><td>WIN</td><td> &#10004</td><td></td><td></td><td></td><td> &#10004</td></tr></tr>
+  <tr><td>Legendary</td><td>24-27</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td> &#10004</td></tr>
+  <tr><td>Master</td><td>21-23</td><td></td><td> &#10004</td></tr>
+  <tr><td>Veteran</td><td>18-20</td></tr>
+  <tr><td>Adept</td><td>15-17</td></tr>
+  <tr><td>Journeyman</td><td>12-14</td></tr>
+  <tr><td>Novice</td><td>9-11</td></tr>
+  <tr><td>Amateur</td><td>6-8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td> &#10004</td></tr>
+  <tr><td>Weakling</td><td>3-5</td></tr>
+  <tr><td>-</td><td>1-2</td></tr>
 </table>
 Once you are certified, you'll likely feel ready to compete at an intermediate to advanced level in the weekly 
 <a href="http://www.crawlcosplay.com/">Crawl Cosplay Challenge</a>.
-_______
-* taken from: <a href="https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661">https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661</a>
+<p>_______<br />
+* taken from: <a href="https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661">https://github.com/crawl/crawl/blob/master/crawl-ref/source/describe.cc#L4661</a></p>
