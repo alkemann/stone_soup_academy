@@ -59,14 +59,14 @@ If you did not win the game, you get assigned a ghost XL title from the followin
       <th><a href="/uniques/tiamat" title="Tiamat, the Draconian Wizard (DrWz)"><img src="/img/Tiamat.png"></a></th>
       <th><a href="/uniques/fannar" title="Fannar, the Deep Elf Ice Elementalist (DEIE)"><img src="/img/Fannar.png"></a></th>
       <th><a href="/uniques/josephine" title="Josephine, the Deep Dwarf Necromancer (DDNe)"><img src="/img/Josephine.png"></a> </th></tr>
-  <tr><td>WIN</td><td>&#10004</td><td></td><td></td><td></td><td>&#10004</td></tr></tr>
-  <tr><td>Legendary (XL:24-27)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>&#10004</td></tr>
-  <tr><td>Master (XL:21-23)</td><td></td><td>&#10004</td></tr>
+  <tr><td>WIN</td><td> &#10004</td><td></td><td></td><td></td><td> &#10004</td></tr></tr>
+  <tr><td>Legendary (XL:24-27)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td> &#10004</td></tr>
+  <tr><td>Master (XL:21-23)</td><td></td><td> &#10004</td></tr>
   <tr><td>Veteran (XL:18-20)</td></tr>
   <tr><td>Adept (XL:15-17)</td></tr>
   <tr><td>Journeyman (XL:12-14)</td></tr>
   <tr><td>Novice (XL:9-11)</td></tr>
-  <tr><td>Amateur (XL:6-8)</td></tr>
+  <tr><td>Amateur (XL:6-8)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td> &#10004</td></tr>
   <tr><td>Weakling (XL:3-5)</td></tr>
   <tr><td>- (XL:1-2)</td></tr>
 </table>
