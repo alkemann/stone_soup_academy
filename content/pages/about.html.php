@@ -27,21 +27,12 @@ If you did not win the game, you get assigned a ghost XL title*:
   <a href="/melee">Melee Weapons</a>, <a href="/ranged">Ranged Weapons</a>, 
   <a href="hybrid">Hybrid</a>, and    <a href="magic">Magic</a>. </p>
 
-<p>When you do win you'll be awarded the Bronze medal for that playstyle.
+<p>When you do win, you'll be awarded the Bronze medal for that playstyle.
   With a 2nd win from the different playstyle, you'll be awarded a Silver medal.
   And again a 3rd win in a 3rd category will grant you the Gold medal.</p>
   Finally, when you have a win in each of the 4 playstyle, you'll be fully Certified by the CosPlay Academy.
 
 <p>Also, once you have a win, you'll be added to the <a href="/certified">Honour Roll</a> allowing you to see also the accomplishment of other crawlers.</p>
-
-<p>Here's an example of a fictional player profile:</p>
-<table>
-  <tr><th>Playstyles</th><th>Level</th><th>Accomplishment</th></tr>
-  <tr><td>Melee</td><td>GOLD medal</td><td>3 wins with each melee Unique</td></tr>
-  <tr><td>Ranged</td><td>BRONZE medal</td><td>1 win with a ranged Unique</td></tr>
-  <tr><td>Hybrid</td><td>SILVER medal</td><td>2 wins with different hybrid Uniques</td></tr>
-  <tr><td>Magic</td><td>Journeyman</td><td>no win yet but reached XL 15-17</td></tr>
-</table>
 <br />
 <p>And here's an example of a detailed player profile:</p>
 <br />
