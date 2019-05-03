@@ -33,8 +33,7 @@ If you did not win the game, you get assigned a ghost XL title*:
   Finally, when you have a win in each of the 4 playstyle, you'll be fully Certified by the CosPlay Academy.
 
 <p>Also, once you have a win, you'll be added to the <a href="/certified">Honour Roll</a> allowing you to see also the accomplishment of other crawlers.</p>
-<br />
-<p>And here's an example of a detailed player profile:</p>
+<p>Here's an example of a detailed player profile:</p>
 <br />
 <table>
   <tr><th> Playstyle:</th><th colspan="3">Melee</th><th colspan="3">Ranged</th><th colspan="3">Hybrid</th><th colspan="3">Magic</th></tr>
