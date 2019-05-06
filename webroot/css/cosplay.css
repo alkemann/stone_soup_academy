@@ -38,7 +38,7 @@ footer {
 }
 
 body {
-  font-family: "Trebuchet MS", "Tahoma", "Verdana", "Sans-Serif";
+  font-family: "Courier New", Courier, monospace;
   font-size: 14px;;
   background-image: url('/img/floor.png');
   margin: 0;
@@ -79,7 +79,7 @@ div#right-wall {
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: "Lucida Grande", "Trebuchet MS", "Sans-Serif";
+  font-family: "Courier New", Courier, monospace;
   color: #fce94f; 
 }
 
