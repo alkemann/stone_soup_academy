@@ -237,7 +237,8 @@ div.player_status {
     outline: 2px solid #7d623c;
     background: black;
 /*    margin: 32px auto;  */
-    position: relative;
+/*    position: relative; */
+    position: absolute;
 }
 
 .bannered {
