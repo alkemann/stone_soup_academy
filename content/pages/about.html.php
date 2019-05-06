@@ -59,7 +59,7 @@ If you did not win the game, you get assigned a ghost XL title*:
   <tr><td>Novice</td><td>9-11</td></tr>
   <tr><td>Amateur</td><td>6-8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>&nbsp&nbsp &#10004</td></tr>
   <tr><td>Weakling</td><td>3-5</td></tr>
-  <tr><td>-</td><td>1-2</td></tr>
+  <tr><td>-</td><td>1-2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>&nbsp&nbsp &#10004</td></tr>
 </table>
 Once you are certified, you'll likely feel ready to compete at an intermediate to advanced level in the weekly 
 <a href="http://www.crawlcosplay.com/">Crawl Cosplay Challenge</a>.
