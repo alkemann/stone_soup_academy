@@ -9,7 +9,7 @@
                 <li>Select STR at every 3rd level.</li>
                 <li>Recommended God(s): Okawaru</li></ol>
 </blockquote></blockquote>
-<ul class="charlist"><li><img src="/img/Joseph.png"> <a href="http://crawl.chaosforge.org/Joseph" target="_blank">Nessos</a>, 
+<ul class="charlist"><li><img src="/img/Joseph.png"> <a href="http://crawl.chaosforge.org/Joseph" target="_blank">Joseph</a>, 
             the <a href="http://crawl.chaosforge.org/Halfling" target="_blank">Halfling</a> 
             <a href="http://crawl.chaosforge.org/Hunter" target="_blank">Hunter</a>
             (<abbr title="Halfling Hunter">HaHu</abbr>)</li></ul>
@@ -18,3 +18,13 @@
                 <li>Turn on manual training for Fighting, and Dodging for the whole game.</li>
                 <li>Select STR at every 3rd level.</li>
                 <li>Recommended God(s): Okawaru</li></ol>
+</blockquote></blockquote>
+<ul class="charlist"><li><img src="/img/Sonja.png"> <a href="http://crawl.chaosforge.org/Sonja" target="_blank">Sonja</a>, 
+            the <a href="http://crawl.chaosforge.org/Kobold" target="_blank">Kobold</a> 
+            <a href="http://crawl.chaosforge.org/Assassin" target="_blank">Assassin</a>
+            (<abbr title="Kobold Assassin">KoAs</abbr>)</li></ul>
+<blockquote><blockquote>
+            <ol><li>Turn on manual training for Fighting, and Dodging for the whole game.</li>
+                <li>Select STR at every 3rd level.</li>
+                <li>Recommended God(s): Dithmenos</li></ol>
+</blockquote></blockquote>
