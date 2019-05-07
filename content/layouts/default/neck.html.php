@@ -6,7 +6,7 @@
 <div class="page information">
     <div class="page_content">
         <div class="heading">
-            <h1><a href="/"><code>Crawl Cosplay Academy</code></a> 
+            <h1><a href="/"><code>Crawl Cosplay Academy</code></a>:
                 <a href="/melee" title="Snorg, the Troll Berzerker (TrBe)"><img src="/img/Snorg.png"></a>
                 <a href="/melee" title="Asterion, the Minotaur Fighter (MiFi)"><img src="/img/Asterion.png"></a>
                 <a href="/melee" title="Saint Roka, the Hill Orc Monk (HOMo)"><img src="/img/Saint_Roka.png"></a>-
