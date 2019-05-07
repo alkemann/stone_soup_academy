@@ -21,5 +21,5 @@
                 <a href="/magic" title="Josephine, the Deep Dwarf Necromancer (DDNe)"><img src="/img/Josephine.png"></a>
             </h1>
         </div>
-        <pre><img src="/img/HR-right-short.png">           <a href="/melee">Melee</a>             <a href="/ranged">Ranged</a>            <a href="/hybrid">Hybrid</a>             <a href="/magic">Magic</a></pre>
+        <pre><img src="/img/HR-right-short.png">          <a href="/melee">Melee</a>                 <a href="/ranged">Ranged</a>            <a href="/hybrid">Hybrid</a>             <a href="/magic">Magic</a></pre>
     <div class="content">
