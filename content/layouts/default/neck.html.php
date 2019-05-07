@@ -6,14 +6,14 @@
 <div class="page information">
     <div class="page_content">
         <div class="heading">
-            <h1><a href="/"><code>Crawl Cosplay Academy</code></a> ... 
-                <a href="/melee" title="Snorg, the Troll Berzerker (TrBe)"><img src="/img/Snorg.png"></a> 
+            <h1><a href="/"><code>Crawl Cosplay Academy</code></a> 
+                <a href="/melee" title="Snorg, the Troll Berzerker (TrBe)"><img src="/img/Snorg.png"></a>
                 <a href="/melee" title="Asterion, the Minotaur Fighter (MiFi)"><img src="/img/Asterion.png"></a>
                 <a href="/melee" title="Saint Roka, the Hill Orc Monk (HOMo)"><img src="/img/Saint_Roka.png"></a> - 
-                <a href="/ranged" title="Nessos, the Centaur Hunter (CeHu)"><img src="/img/Nessos.png"></a> 
+                <a href="/ranged" title="Nessos, the Centaur Hunter (CeHu)"><img src="/img/Nessos.png"></a>
                 <a href="/ranged" title="Joseph, the Halfling Hunter (HaHu)"><img src="/img/Joseph.png"></a>
                 <a href="/ranged" title="Sonja, the Kobole Assassin (KoAs)"><img src="/img/Sonja.png"></a> - 
-                <a href="/hybrid" title="Grum, the Gnoll Summoner (GnSu)"><img src="/img/Grum.png"></a> 
+                <a href="/hybrid" title="Grum, the Gnoll Summoner (GnSu)"><img src="/img/Grum.png"></a>
                 <a href="/hybrid" title="Ilsuiw, the Merfolk Skald (MfSk)"><img src="/img/Ilsuiw.png"></a>
                 <a href="/hybrid" title="Jory, the Vampire Enchanter (VpEn)"><img src="/img/Jory.png"></a> - 
                 <a href="/magic" title="Tiamat, the Draconian Wizard (DrWz)"><img src="/img/Tiamat.png"></a>
