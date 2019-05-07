@@ -1,7 +1,7 @@
 <h2>Conducts for simpler melee characters:</h2>
 <ul class="charlist"><li><img src="/img/Snorg.png"> <a href="http://crawl.chaosforge.org/Snorg" target="_blank">Snorg</a>, 
-            the <a href="http://crawl.chaosforge.org/Troll" target="_blank"><u><b>Tr</b></u>oll</a> 
-            <a href="http://crawl.chaosforge.org/Berserker" target="_blank"><u><b>Be</b></u>rzerker</a>
+            the <a href="http://crawl.chaosforge.org/Troll" target="_blank">Troll</a> 
+            <a href="http://crawl.chaosforge.org/Berserker" target="_blank">Berzerker</a>
             (<abbr title="Troll Berzerker">TrBe</abbr>) of 
             <a href="http://crawl.chaosforge.org/Trog" target="_blank">Trog</a> <img src="/img/Trog_altar.png"></li></ul>
 <blockquote><blockquote>
