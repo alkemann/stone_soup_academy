@@ -52,7 +52,7 @@ body {
 .information {
   text-align: left;
   max-width: 80em;
-  margin: 32px auto;
+  margin: 0px auto;
 }
 
 div#top-wall {
