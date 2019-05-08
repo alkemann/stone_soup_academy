@@ -30,7 +30,7 @@
             the <a href="http://crawl.chaosforge.org/Hill_Orc" target="_blank"><u><b>H</b></u>ill <u><b>O</b></u>rc</a> 
             <a href="http://crawl.chaosforge.org/Monk" target="_blank"><u><b>Mo</b></u>nk</a> 
             (<abbr title="Hill Orc Monk">HOMo</abbr>) of 
-            <a href="http://crawl.chaosforge.org/Beogh" target="_blank">Beogh</a> <img src="/img/Beogh_altar.png"> (beginner-intermediate level)</li></ul>
+            <a href="http://crawl.chaosforge.org/Beogh" target="_blank">Beogh</a> <img src="/img/Beogh_altar.png"> (intermediate level)</li></ul>
 <blockquote><blockquote>
             <ol><li>Choose Axe as starting melee weapon</li>
             <li>Turn on manual training for Fighting and dodging for the whole game.</li>
