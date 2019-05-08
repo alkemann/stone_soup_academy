@@ -11,7 +11,8 @@ If you have never won a game, your first Academy goal is to play one of the "mel
 <b><i>easier</i></b> combos of the easiest category. 
 <h4>GO!</h4>
 Once you have completed one of your better games, <a href="/submit">Submit your Morgue</a> to gain access to your porfolio</a>. 
-Also, feel free to submit your old morgues that used any of the Unique's specific combos. 
+Also, feel free to submit your old morgues that used any of the Unique's specific combos.
+<br />
 <h3>Need more help?</h3>
 <p>Come chat with us on our <a href="https://discord.gg/ZQ4kk6n" target="_blank">CosPlay Discord server</a> in the #cosplay-academy text channel.
 <p>Want to do a bit of the legwork on your own, then read the following:
