@@ -267,6 +267,7 @@ div.toplinks {
     padding-top: 10px;
     padding-bottom: 3px;
     padding-right: 15px;
+    position: sticky;
 }
 
 div.toplinks a:visited {
