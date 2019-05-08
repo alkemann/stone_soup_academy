@@ -1,7 +1,7 @@
 <div id="top-wall">&nbsp;</div>
     <div class="toplinks">
         <a href="/">Home</a> | <a href="/about">About</a> | <a href="/discord">Discord server</a> | <a href="/submit">Submit a Morgue</a> |
-        <a href="/certified">Honour Roll</a> | <a href="/submit">Login</a>&nbsp&nbsp&nbsp&nbsp&nbsp
+        <a href="/certified">Honour Roll</a> | <a href="/submit">Login</a>&nbsp
     </div>
 <div class="page information">
     <div class="page_content">
