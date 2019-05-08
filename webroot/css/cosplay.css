@@ -39,10 +39,10 @@ footer {
 
 body {
   font-family: "Lucida Console", Monaco, monospace;
-  font-size: 14px;;
+  font-size: 16px;;
   background-image: url('/img/floor.png');
   margin: 0;
-  padding: 0;
+  padding: 2px;
 }
 
 body {
