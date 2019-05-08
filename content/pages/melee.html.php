@@ -6,7 +6,7 @@
             <a href="http://crawl.chaosforge.org/Trog" target="_blank">Trog</a> <img src="/img/Trog_altar.png"></li></ul>
 <blockquote><blockquote>
             <ol><li>Select Claws at character creation.</li>
-            <li>Turn on manual training for Fighting, Unarmed Combat (UC), and dodging for the whole game.</li>
+            <li>Turn on manual training with Fighting, Unarmed Combat (UC), and Dodging selected for the whole game.</li>
             <li>Select STR at every 3rd level, unless INT falls below 3.</li>
             <li>Use a shield when you find one, and turn on Shield training.</li>
             <li>Don't abandon Trog for a 3 rune win.</li></ol>
