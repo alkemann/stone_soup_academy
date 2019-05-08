@@ -1,7 +1,7 @@
 <h2>Welcome green Crawler!</h2>
 <p><img src="/img/Snorg.png" style="float:right;width:48px;height:48px;">Want to improve your gameplay while having fun doing it? 
-Join for free the Crawl Cosplay Academy (CCA) to make that happen. While doing so, you'll play easier combos of different playstyles 
-as you learn to survive longer, and hopefully win many games sooner than later. So buckle up with <abbr title="Crawl Cosplay Academy">CCA</abbr> 
+With the Crawl Cosplay Academy (CCA), you'll play easier combos of different playstyles as you learn to survive longer, and 
+hopefully win many games sooner than later. So buckle up with <abbr title="Crawl Cosplay Academy">CCA</abbr> 
 for an approach aimed to ease the learning curve while playing characters based on 
 <a href="http://crawl.chaosforge.org/Unique_monster" target="_blank">DCSS Uniques</a> such as our maskot, <b><i>Snorg</b></i>:
 <h4>Ready?</h4>
