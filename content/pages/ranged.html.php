@@ -5,9 +5,10 @@
             (<abbr title="Centaur Hunter">CeHu</abbr>)</li></ul>
 <blockquote><blockquote>
             <ol><li>Select Bows at character creation.</li>
-                <li>Turn on manual training for Fighting, and Dodging for the whole game.</li>
+                <li>Turn on manual training with Fighting, and Dodging on for the whole game.</li>
+                <li>Recommended God(s): Okawaru</li>
                 <li>Select STR at every 3rd level.</li>
-                <li>Recommended God(s): Okawaru</li></ol>
+                <li>Use you arrows sparingly with you have less than 20</li></ol>
 </blockquote></blockquote>
 <ul class="charlist"><li><img src="/img/Joseph.png"> <a href="http://crawl.chaosforge.org/Joseph" target="_blank">Joseph</a>, 
             the <a href="http://crawl.chaosforge.org/Halfling" target="_blank">Halfling</a> 
