@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ebbbb68be766592d5666c4d3ba7fb004",
+    "content-hash": "ab9aabe4455652f668be3b412bd107ab",
     "packages": [
         {
             "name": "alkemann/debug",
@@ -44,24 +44,25 @@
         },
         {
             "name": "alkemann/h2l",
-            "version": "v0.40.0",
+            "version": "v0.57.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/alkemann/h2l.git",
-                "reference": "5f0c8e535bbe99c9de99b9703df2289d6555e5e7"
+                "reference": "eff5fba8250cafe0b0b3d1e37b12407b4ffcabd2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/alkemann/h2l/zipball/5f0c8e535bbe99c9de99b9703df2289d6555e5e7",
-                "reference": "5f0c8e535bbe99c9de99b9703df2289d6555e5e7",
+                "url": "https://api.github.com/repos/alkemann/h2l/zipball/eff5fba8250cafe0b0b3d1e37b12407b4ffcabd2",
+                "reference": "eff5fba8250cafe0b0b3d1e37b12407b4ffcabd2",
                 "shasum": ""
             },
             "require": {
-                "php": "^7.1.0"
+                "php": "^7.3.0"
             },
             "require-dev": {
                 "mongodb/mongodb": "^1.1",
-                "phpunit/phpunit": "^5.2"
+                "phpstan/phpstan": "^0.12.4",
+                "phpunit/phpunit": "^8.4"
             },
             "suggest": {
                 "alkemann/debug": "Convenient var_dump replaces for debug and development, require-dev only",
@@ -100,7 +101,7 @@
                 "router",
                 "routing"
             ],
-            "time": "2019-04-12T13:26:43+00:00"
+            "time": "2020-01-08T13:06:39+00:00"
         }
     ],
     "packages-dev": [

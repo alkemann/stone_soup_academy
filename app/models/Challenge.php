@@ -2,9 +2,33 @@
 
 namespace app\models;
 
-class Challenge extends BaseModel
+class Challenge //  extends BaseModel
 {
 
+
+    public static function list()
+    {
+        return [
+            // Melee
+            1 => 'Snorg',
+            2 => 'Asterion',
+            3 => 'Saint Roka',
+
+            // Range
+            11 => 'Nessos',
+            12 => 'Joseph',
+            13 => 'Sonja',
+
+            // Hybrid
+            21 => 'Grum',
+            22 => 'Ilsuiw',
+
+            // Mage
+
+        ];
+    }
+
+/*
     static $connection = "default";
     static $table = "challenges";
     static $fields = [
@@ -18,7 +42,7 @@ class Challenge extends BaseModel
      static $relations = [
         'submissions' => ['type' => 'belongs_to', 'class' => Submission::class, 'local' => 'id', 'foreign' => 'challenge_id']
     ];
-   
+
     public static function historicSets(): array
     {
         $q = "SELECT `setnr`, COUNT(`setnr`) as `count` FROM `submissions` AS `s` ".
@@ -75,11 +99,12 @@ class Challenge extends BaseModel
         return $all;
     }
 
-    /********/
-
     public function shortform(): string
     {
         return empty($this->shortform) ? "{$this->species}, {$this->background}, {$this->gods}" : $this->shortform;
     }
+
+    /********/
+
 
 }
