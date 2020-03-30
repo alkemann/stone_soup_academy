@@ -1,8 +1,8 @@
 <?php
 
-use app\models\Challenge;
-// $player_list = Player::list(); // not implemented yet as we have no db
-// $player_list = [1 => 'Rogga', 11 => 'Alkemann', 21 => 'Ace'];
+use app\models\{ Morgue, Challenge };
+
+$players = Morgue::players();
 $challenges = Challenge::list();
 ?>
 <h2>Submit a Morgue's URL</h2>
@@ -19,12 +19,14 @@ $challenges = Challenge::list();
         <br /><br />
         <label>
             <span>Player</span><br />
-            <input name="player" type="text" />
-        </label>
-        <br /><br />
-        <label>
-            <span>Morgue Title</span><br />
-            <input name="title" type="text" />
+            <select name="player" onchange="play_selected();">
+                    <option>New Player</option>
+                <?php foreach ($players as $key => $value) : ?>
+                    <option value="<?=$key; ?>"><?=$value?></option>
+                <?php endforeach; ?>
+            </select>
+            <input id="player_name" name="player" type="text" />
+
         </label>
         <br /><br />
         <label>
@@ -37,3 +39,10 @@ $challenges = Challenge::list();
     </fieldset>
     <br />
 </form>
+<script type="text/javascript">
+    function play_selected() {
+        const el = document.getElementById("player_name");
+        el.disabled = true;
+        el.parentNode. removeChild(el);
+    }
+</script>

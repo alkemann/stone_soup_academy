@@ -18,6 +18,26 @@ class Morgue extends BaseModel
       KEY `challenge_id` (`challenge_id`)
     ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
     */
+    /*
+     3 Weakling
+     6  Amateur
+     9  Novice
+    12  Journeyman
+    15  Adept
+    18  Veteran
+    21  Master
+    24+ Legendary
+    */
+    static $titles = [
+        'Weakling' => 'Weakling',
+        'Amateur' => 'Amateur',
+        'Novice' => 'Novice',
+        'Journeyman' => 'Journeyman',
+        'Adept' => 'Adept',
+        'Veteran' => 'Veteran',
+        'Master' => 'Master',
+        'Legendary' => 'Legendary',
+    ];
 
     static $connection = "default";
     static $table = "morgues";
@@ -27,4 +47,15 @@ class Morgue extends BaseModel
     ];
     static $relations = [];
 
+    public static function players()
+    {
+        $query = "SELECT DISTINCT `player` FROM `morgues`;";
+        $result = static::db()->query($query);
+        $list = [];
+        foreach ($result as $row) {
+            $p = $row['player'];
+            $list[$p] = $p;
+        }
+        return $list;
+    }
 }
